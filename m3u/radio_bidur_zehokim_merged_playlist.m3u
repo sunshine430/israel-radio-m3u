@@ -1,251 +1,171 @@
 #EXTM3U
 # Sorted by: Date Only (Desc). Filtered by allow list with Group mapping.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 18:44 | 09/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 19:01 | 09/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡07/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="32" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 07/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 07/01/26 | 07/01/2026 | 00:00
 https://103files.streamgates.net/103files/har070126-11.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 07/01/26 | אין תיאור | ⚡07/01/2026⚡
-https://awaod01.streamgates.net/103fm_aw/har070126-11.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡06/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="45" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 06/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 06/01/26 | 06/01/2026 | 00:00
 https://103files.streamgates.net/103files/har060126-18.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 06/01/26 | אין תיאור | ⚡06/01/2026⚡
-https://awaod01.streamgates.net/103fm_aw/har060126-18.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡05/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="59" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 05/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 05/01/26 | 05/01/2026 | 00:00
 https://103files.streamgates.net/103files/har050126111.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 05/01/26 | אין תיאור | ⚡05/01/2026⚡
-https://awaod01.streamgates.net/103fm_aw/har050126111.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡04/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="70" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 04/01/26 | 04/01/2026 | 00:00
 https://103files.streamgates.net/103files/har040126-17.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 04/01/26 | אין תיאור | ⚡04/01/2026⚡
-https://awaod01.streamgates.net/103fm_aw/har040126-17.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡01/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="88" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 01/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 01/01/26 | 01/01/2026 | 00:00
 https://103files.streamgates.net/103files/har01012699.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/FullShowImg_718579_10_3_.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 01/01/26 | אין תיאור | ⚡01/01/2026⚡
-https://awaod01.streamgates.net/103fm_aw/har01012699.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡31/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="101" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 31/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 31/12/25 | 31/12/2025 | 00:00
 https://103files.streamgates.net/103files/har311225-15.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 31/12/25 | אין תיאור | ⚡31/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har311225-15.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡30/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="114" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 30/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 30/12/25 | 30/12/2025 | 00:00
 https://103files.streamgates.net/103files/har301225-14.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 30/12/25 | אין תיאור | ⚡30/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har301225-14.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡29/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="128" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 29/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 29/12/25 | 29/12/2025 | 00:00
 https://103files.streamgates.net/103files/har29122513.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 29/12/25 | אין תיאור | ⚡29/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har29122513.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡28/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="140" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 28/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 28/12/25 | 28/12/2025 | 00:00
 https://103files.streamgates.net/103files/har28122599.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 28/12/25 | אין תיאור | ⚡28/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har28122599.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/highlight/SegmentImgNew_718048_15_46_.jpg" group-title="מתיחות",רדיו 103 Items - איריס קול | _זאת לא רק מתיחה _ זה ארגון מחדש של הרקמות_ | ד_ר אברי רווה_ מומחה לכירורגיה פלסטית הסביר שמתיחת פנים היא לפעמים הרבה יותר ממתיחת פנים | ⚡28/12/2025⚡
 https://awaod01.streamgates.net/103fm_aw/kol2812255.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡25/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="159" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 25/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 25/12/25 | 25/12/2025 | 00:00
 https://103files.streamgates.net/103files/har251225-18.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 25/12/25 | אין תיאור | ⚡25/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har251225-18.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡24/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="172" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 24/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 24/12/25 | 24/12/2025 | 00:00
 https://103files.streamgates.net/103files/har241225-19.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 24/12/25 | אין תיאור | ⚡24/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har241225-19.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡23/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="188" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 23/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 23/12/25 | 23/12/2025 | 00:00
 https://103files.streamgates.net/103files/har23122510.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 23/12/25 | אין תיאור | ⚡23/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har23122510.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡22/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="200" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 22/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 22/12/25 | 22/12/2025 | 00:00
 https://103files.streamgates.net/103files/har221225-20.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 22/12/25 | אין תיאור | ⚡22/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har221225-20.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡21/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="212" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 21/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 21/12/25 | 21/12/2025 | 00:00
 https://103files.streamgates.net/103files/har21122599.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 21/12/25 | אין תיאור | ⚡21/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har21122599.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡18/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="231" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 18/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 18/12/25 | 18/12/2025 | 00:00
 https://103files.streamgates.net/103files/har18122510.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 18/12/25 | אין תיאור | ⚡18/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har18122510.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡17/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="240" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 17/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 17/12/25 | 17/12/2025 | 00:00
 https://103files.streamgates.net/103files/har17122599.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 17/12/25 | אין תיאור | ⚡17/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har17122599.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡16/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="255" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 16/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 16/12/25 | 16/12/2025 | 00:00
 https://103files.streamgates.net/103files/har161225-13.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 16/12/25 | אין תיאור | ⚡16/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har161225-13.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡15/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="267" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 15/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 15/12/25 | 15/12/2025 | 00:00
 https://103files.streamgates.net/103files/har151225-18.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 15/12/25 | אין תיאור | ⚡15/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har151225-18.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡14/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="278" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 14/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 14/12/25 | 14/12/2025 | 00:00
 https://103files.streamgates.net/103files/har141225-10.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 14/12/25 | אין תיאור | ⚡14/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har141225-10.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="מתיחות",רדיו 103 Items - שניים עד ארבע | מתיחה לקראת חג החנוכה | הרון הרון (רון שלום) ויעקב יעקב (יואב כהן) סיפרו על הבדיחה שלהם כשהם בדרכים לקראת חג החנוכה | ⚡14/12/2025⚡
 https://awaod01.streamgates.net/103fm_aw/har1412253.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡11/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="296" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 11/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 11/12/25 | 11/12/2025 | 00:00
 https://103files.streamgates.net/103files/har11122599.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 11/12/25 | אין תיאור | ⚡11/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har11122599.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="309" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 10/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 10/12/25 | 10/12/2025 | 00:00
 https://103files.streamgates.net/103files/har12122599.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 10/12/25 | אין תיאור | ⚡12/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har12122599.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡09/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="322" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 09/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 09/12/25 | 09/12/2025 | 00:00
 https://103files.streamgates.net/103files/har091225-17.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 09/12/25 | אין תיאור | ⚡09/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har091225-17.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡08/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="336" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 08/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 08/12/25 | 08/12/2025 | 00:00
 https://103files.streamgates.net/103files/har081225-13.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 08/12/25 | אין תיאור | ⚡08/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har081225-13.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡07/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="348" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 07/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 07/12/25 | 07/12/2025 | 00:00
 https://103files.streamgates.net/103files/har07122512.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 07/12/25 | אין תיאור | ⚡07/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har07122512.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡04/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="368" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 04/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 04/12/25 | 04/12/2025 | 00:00
 https://103files.streamgates.net/103files/har0412250999.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 04/12/25 | אין תיאור | ⚡04/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har0412250999.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡03/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="380" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 03/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 03/12/25 | 03/12/2025 | 00:00
 https://103files.streamgates.net/103files/har031225-12.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 03/12/25 | אין תיאור | ⚡03/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har031225-12.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡02/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="394" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 02/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 02/12/25 | 02/12/2025 | 00:00
 https://103files.streamgates.net/103files/har02122513.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 02/12/25 | אין תיאור | ⚡02/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har02122513.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡01/12/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="409" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 01/12/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 01/12/25 | 01/12/2025 | 00:00
 https://103files.streamgates.net/103files/har01122511.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 01/12/25 | אין תיאור | ⚡01/12/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har01122511.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡30/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="420" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 30/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 30/11/25 | 30/11/2025 | 00:00
 https://103files.streamgates.net/103files/har3011250-1.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 30/11/25 | אין תיאור | ⚡30/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har3011250-1.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡27/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="439" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 27/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 27/11/25 | 27/11/2025 | 00:00
 https://103files.streamgates.net/103files/har271125-66.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 27/11/25 | אין תיאור | ⚡27/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har271125-66.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡26/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="450" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 26/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 26/11/25 | 26/11/2025 | 00:00
 https://103files.streamgates.net/103files/har261125-77.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 26/11/25 | אין תיאור | ⚡26/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har261125-77.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡25/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="463" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 25/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 25/11/25 | 25/11/2025 | 00:00
 https://103files.streamgates.net/103files/har2511257.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 25/11/25 | אין תיאור | ⚡25/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har2511257.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡24/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="476" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 24/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 24/11/25 | 24/11/2025 | 00:00
 https://103files.streamgates.net/103files/har2411257.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 24/11/25 | אין תיאור | ⚡24/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har2411257.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡23/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="489" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 23/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 23/11/25 | 23/11/2025 | 00:00
 https://103files.streamgates.net/103files/har231125-15.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 23/11/25 | אין תיאור | ⚡23/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har231125-15.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡20/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="508" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 20/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 20/11/25 | 20/11/2025 | 00:00
 https://103files.streamgates.net/103files/har2011258.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 20/11/25 | אין תיאור | ⚡20/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har2011258.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡19/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="518" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 19/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 19/11/25 | 19/11/2025 | 00:00
 https://103files.streamgates.net/103files/har1911256.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 19/11/25 | אין תיאור | ⚡19/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har1911256.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡18/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="531" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 18/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 18/11/25 | 18/11/2025 | 00:00
 https://103files.streamgates.net/103files/har181125-10.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 18/11/25 | אין תיאור | ⚡18/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har181125-10.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡17/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="544" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 17/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 17/11/25 | 17/11/2025 | 00:00
 https://103files.streamgates.net/103files/har171125-9.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 17/11/25 | אין תיאור | ⚡17/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har171125-9.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡16/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="555" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 16/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 16/11/25 | 16/11/2025 | 00:00
 https://103files.streamgates.net/103files/har161125-16.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 16/11/25 | אין תיאור | ⚡16/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har161125-16.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡13/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="573" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 13/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 13/11/25 | 13/11/2025 | 00:00
 https://103files.streamgates.net/103files/har1311250.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 13/11/25 | אין תיאור | ⚡13/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har1311250.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡12/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבע14התוכנית המלאה 12/11/25 | אין תיאור | ⚡12/11/2025⚡
@@ -254,44 +174,30 @@ https://awaod01.streamgates.net/103fm_aw/har121125-13.mp3
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="596" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 11/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 11/11/25 | 11/11/2025 | 00:00
 https://103files.streamgates.net/103files/har111125-13.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 11/11/25 | אין תיאור | ⚡11/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har111125-13.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡09/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="617" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 09/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 09/11/25 | 09/11/2025 | 00:00
 https://103files.streamgates.net/103files/har0911259.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 09/11/25 | אין תיאור | ⚡09/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har0911259.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡06/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="639" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 06/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 06/11/25 | 06/11/2025 | 00:00
 https://103files.streamgates.net/103files/har061125-122.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 06/11/25 | אין תיאור | ⚡06/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har061125-122.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡05/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="650" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 05/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 05/11/25 | 05/11/2025 | 00:00
 https://103files.streamgates.net/103files/har0511259.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 05/11/25 | אין תיאור | ⚡05/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har0511259.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡04/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="664" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 4.11.25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 4.11.25 | 04/11/2025 | 00:00
 https://103files.streamgates.net/103files/har041125-10.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 4.11.25 | אין תיאור | ⚡04/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har041125-10.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡03/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="676" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 03/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 03/11/25 | 03/11/2025 | 00:00
 https://103files.streamgates.net/103files/har110325-11.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 03/11/25 | אין תיאור | ⚡11/03/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har110325-11.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡02/11/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="687" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 02/11/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="שניים עד ארבע",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 02/11/25 | 02/11/2025 | 00:00
 https://103files.streamgates.net/103files/har0211250.mp3
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 02/11/25 | אין תיאור | ⚡02/11/2025⚡
-https://awaod01.streamgates.net/103fm_aw/har0211250.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡30/10/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_627.jpg" group-title="שניים עד ארבע",רדיו 103 Items - שניים עד ארבע | שניים עד ארבעהתוכנית המלאה 30/10/25 | אין תיאור | ⚡30/10/2025⚡
