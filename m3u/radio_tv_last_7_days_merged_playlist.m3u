@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 20:31 | 09/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 22:32 | 09/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡09/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -66,6 +66,8 @@ https://api.bynetcdn.com:443/Redirector/glz/260109-16/PD
 https://api.bynetcdn.com:443/Redirector/glz/260109-18/PD
 #EXTINF:-1 tvg-id="247453" tvg-name="מאחורי הצלילים" tvg-logo="https://glz.co.il/media/61089/מאחורי-הצלילים.png" group-title="גלי צהל",גלי צהל - מאחורי הצלילים | מאחורי הצלילים | אבנר קנר | 09/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260109-19/PD
+#EXTINF:-1 tvg-id="247454" tvg-name="שעתיים אישיות של מוזיקה" tvg-logo="https://glz.co.il/media/61085/שעתיים-אישיות.png" group-title="גלי צהל",גלי צהל - שעתיים אישיות של מוזיקה | שעתיים אישיות של מוזיקה | 09/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260109-20/PD
 #EXTINF:-1 tvg-id="787153" tvg-name="מחלקה ראשונה" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590945000_TV10_machlaka_rishona.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - מחלקה ראשונה | 09/01/2026 | 13:30
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789651000000&stopTime=789652800000
 #EXTINF:-1 tvg-id="787152" tvg-name="בוקר כלכלי" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590946000_TV10_boker_calcali.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בוקר כלכלי | 09/01/2026 | 07:30
@@ -80,6 +82,10 @@ https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/gilad9.1.mp3
 https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/vered.mp3
 #EXTINF:-1 tvg-id="09/01/2026" tvg-name="ראיון עם אורלי רון" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/אורלי-רון.jpg" group-title="רדיו 100fm",100FM - חותמים שבוע | ראיון עם אורלי רון | 09/01/2026
 https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/orly9.1.mp3
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 09/01/2026 | 22:00
+https://www.oles.tv/videos/91fm/__archive/20260109220000.mp3
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 09/01/2026 | 21:00
+https://www.oles.tv/videos/91fm/__archive/20260109210000.mp3
 #EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 09/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260109200000.mp3
 #EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי לפני שבת | עם דוד בן בסט | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי לפני שבת | עם דוד בן בסט | שעה 2 | 09/01/2026 | 19:00
