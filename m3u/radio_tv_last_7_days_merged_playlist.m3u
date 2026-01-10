@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 13:26 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 14:31 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -18,6 +18,12 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-09/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-10/PD
 #EXTINF:-1 tvg-id="247459" tvg-name="צלילי שבת" tvg-logo="https://glz.co.il/media/50723/באנר-אתר.png" group-title="גלי צהל",גלי צהל - צלילי שבת | צלילי שבת | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-05/PD
+#EXTINF:-1 tvg-id="247466" tvg-name="בן וקובי פרג_" tvg-logo="https://glz.co.il/media/64924/באנר-אתר-1.png" group-title="גלי צהל",גלי צהל - בן וקובי פרג_ | בן וקובי פרג_ | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-12/PD
+#EXTINF:-1 tvg-id="247467" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/64941/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - הדרן | הדרן | מופע ג׳יין בורדו ממועדון הבארבי בתל אביב במרץ 2025 אורחות: עלמה גוב והאחיות כרקוקלי | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-14/PD
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 6" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 6 | 10/01/2026 | 14:00
+https://www.oles.tv/videos/91fm/__archive/20260110140000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 5" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 5 | 10/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260110130000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 10/01/2026 | 12:00
