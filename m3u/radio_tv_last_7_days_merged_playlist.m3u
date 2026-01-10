@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 14:31 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 16:32 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -22,6 +22,10 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-05/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-12/PD
 #EXTINF:-1 tvg-id="247467" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/64941/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - הדרן | הדרן | מופע ג׳יין בורדו ממועדון הבארבי בתל אביב במרץ 2025 אורחות: עלמה גוב והאחיות כרקוקלי | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-14/PD
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 8" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 8 | 10/01/2026 | 16:00
+https://www.oles.tv/videos/91fm/__archive/20260110160000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 7" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 7 | 10/01/2026 | 15:00
+https://www.oles.tv/videos/91fm/__archive/20260110150000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 6" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 6 | 10/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260110140000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 5" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 5 | 10/01/2026 | 13:00
@@ -1384,12 +1388,6 @@ https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_040126.mp3
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="69598a18f804a167daf4470b" tvg-name="הפטריוטים | הפטריוטים" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/a05d9964-2e56-4999-80fb-622bfceff21c.jpeg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - הפטריוטים | הפטריוטים | 03/01/2026 | 21:29
 https://channel14.vod.immergo.tv/channel14/transcoded/4b871915-93c0-46c9-9231-0bd06ed833f6/hls/master.m3u8
-#EXTINF:-1 tvg-id="695a6c62dab1ed9d72c57404" tvg-name="חדשות הלילה | חדשות הלילה" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/0bf5232b-ea64-4f41-8131-7f9bbde0a4d2.png" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - חדשות הלילה | חדשות הלילה | 03/01/2026 | 13:48
-https://channel14.vod.immergo.tv/channel14/transcoded/6703bee9-e846-4422-b8db-16fad5e54424/hls/master.m3u8
-#EXTINF:-1 tvg-id="695a6694f804a167daf45bc0" tvg-name="השבוע עם אראל סג"ל | השבוע" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/f0c34f46-d481-406f-9332-710b9faa90ea/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - השבוע עם אראל סג"ל | השבוע | 03/01/2026 | 13:42
-https://channel14.vod.immergo.tv/channel14/transcoded/f0c34f46-d481-406f-9332-710b9faa90ea/hls/master.m3u8
-#EXTINF:-1 tvg-id="695a6854dab1ed9d72c57324" tvg-name="מהדורת מוצאי שבת | מהדורת מוצאי שבת" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/93ef2288-aee9-4e60-81da-82282ff203f7/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - מהדורת מוצאי שבת | מהדורת מוצאי שבת | 03/01/2026 | 13:37
-https://channel14.vod.immergo.tv/channel14/transcoded/93ef2288-aee9-4e60-81da-82282ff203f7/hls/master.m3u8
 #EXTINF:-1 tvg-id="784567" tvg-name="סוגרים שוק" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590947000_TV10_sogrim_shuk.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - סוגרים שוק | 03/01/2026 | 21:30
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789161400000&stopTime=789167700000
 #EXTINF:-1 tvg-id="784594" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 03/01/2026 | 19:00
