@@ -1,11 +1,23 @@
 #EXTM3U
 # Sorted by: Date Only (Desc). Filtered by allow list with Group mapping.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 19:17 | 09/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 02:28 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
+https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="מוזיקה שירים",91FM - לילה ישראלי | שעה 1 | 10/01/2026 | 00:00
+https://www.oles.tv/videos/91fm/__archive/20260110000000.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡09/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="6" tvg-name="שבת-עברית-קלאסיקות-מוזיקה-ישראלית | אלי לוזון בן 60" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_28.jpg" group-title="מוזיקה שירים",רדיו 103 - שבת-עברית-קלאסיקות-מוזיקה-ישראלית | אלי לוזון בן 60 | 09/01/2026 | 00:00
 https://103files.streamgates.net/103files/sub0901261.mp3
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="שירים ים תיכוני",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 09/01/2026 | 23:00
+https://www.oles.tv/videos/91fm/__archive/20260109230000.mp3
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="שירים ים תיכוני",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 09/01/2026 | 22:00
+https://www.oles.tv/videos/91fm/__archive/20260109220000.mp3
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="שירים ים תיכוני",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 09/01/2026 | 21:00
+https://www.oles.tv/videos/91fm/__archive/20260109210000.mp3
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="שירים ים תיכוני",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 09/01/2026 | 20:00
+https://www.oles.tv/videos/91fm/__archive/20260109200000.mp3
 #EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת קלאסית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="שבת קלאסית",91FM - שבת קלאסית | שעה 2 | 09/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260109170000.mp3
 #EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת קלאסית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="שבת קלאסית",91FM - שבת קלאסית | שעה 1 | 09/01/2026 | 16:00
@@ -28,6 +40,12 @@ https://www.oles.tv/videos/91fm/__archive/20260109020000.mp3
 https://www.oles.tv/videos/91fm/__archive/20260109010000.mp3
 #EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="מוזיקה שירים",91FM - עברי מהלב | שעה 1 | 09/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260109000000.mp3
+#EXTINF:-1 tvg-id="247452" tvg-name="קבלת שבת" tvg-logo="https://glz.co.il/media/63952/באנר-אתר-2-שבת.png" group-title="תוכניות מוזיקה",גלי צהל - קבלת שבת | קבלת שבת | 09/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260109-18/PD
+#EXTINF:-1 tvg-id="247456" tvg-name="ספיישלים מוזיקליים" tvg-logo="https://glz.co.il/media/63846/b.png" group-title="תוכניות מוזיקה",גלי צהל - ספיישלים מוזיקליים | יום הולדת 45 לאלישיה קיז | 09/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260109-23/PD
+#EXTINF:-1 tvg-id="247455" tvg-name="ספיישלים מוזיקליים" tvg-logo="https://glz.co.il/media/63846/b.png" group-title="תוכניות מוזיקה",גלי צהל - ספיישלים מוזיקליים | 50 שנה לאלבום desire של בוב דילן | 09/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260109-22/PD
 #EXTINF:-1 group-title="Date", ⚡⚡08/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/highlight/SegmentImgNew_719016_56_10_.jpg" group-title="תוכניות מוזיקה",רדיו 103 Items - רז שכניק | _מהיום שנולדתי ידעתי שיש לי קול טוב_ | הזמרת אביבה אבידן סיפרה על תחילת דרכה כזמרת בשירות הצבאי והפריצה הגדולה • שיתפה: _הגעתי מירושלים_ ילדה טובה_ רציתי לשיר ולהראות שאני יודעת_ | ⚡08/01/2026⚡
@@ -1190,10 +1208,6 @@ https://103files.streamgates.net/103files/sub2709201.mp3
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/eb9763d8-c128-45c2-8110-b09500f1e1f9/b28fbec4-8b3a-4cbf-8c6d-b36400dbe616/audio.mp3
 #EXTINF:-1 tvg-id="241716" tvg-name="קבלת שבת" tvg-logo="https://glz.co.il/media/63952/באנר-אתר-2-שבת.png" group-title="תוכניות מוזיקה",גלי צהל - קבלת שבת | קבלת שבת | 26/09/2025
 https://api.bynetcdn.com:443/Redirector/glz/250926-18/PD
-#EXTINF:-1 tvg-id="241720" tvg-name="ספיישלים מוזיקליים" tvg-logo="https://glz.co.il/media/63846/b.png" group-title="תוכניות מוזיקה",גלי צהל - ספיישלים מוזיקליים | 50 שנה ל rocky horror picture show | 26/09/2025
-https://api.bynetcdn.com:443/Redirector/glz/250926-23/PD
-#EXTINF:-1 tvg-id="241719" tvg-name="ספיישלים מוזיקליים" tvg-logo="https://glz.co.il/media/63846/b.png" group-title="תוכניות מוזיקה",גלי צהל - ספיישלים מוזיקליים | 45 שנה למחזמר ״עלובי החיים״ | 26/09/2025
-https://api.bynetcdn.com:443/Redirector/glz/250926-22/PD
 #EXTINF:-1 group-title="Date", ⚡⚡25/09/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/highlight/SegmentImgNew_708808_29_19_.jpg" group-title="תוכניות מוזיקה",רדיו 103 Items - רז שכניק | _אני מקשיב לכל _ ממוזיקה טורקית ועד הבי מטאל_ | אבי סינגולדה_ גיטריסט העל שעובד עם אגדות המוסיקה הישראלית_ התארח אצל רז שכניק וסיפר על קריירה יוצאת דופן | ⚡25/09/2025⚡
@@ -1456,12 +1470,12 @@ https://99sets.livecdn.biz/99sets/eco99_charts_hapshuta/eco99_charts_hapshuta_31
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/5045d056-22e4-4246-a50d-add7014d2eee/eb489131-00e9-4f08-8b59-b32b00bbc180/audio.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡26/07/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 tvg-id="238337" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/65160/אילי-גורליצקי.png" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | אילי גורליצקי | 26/07/2025
+https://api.bynetcdn.com:443/Redirector/glz/250726-07/PD
 #EXTINF:-1 tvg-id="238338" tvg-name="בוא שיר עברי" tvg-logo="https://glz.co.il/media/65099/אורי-לשמן.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי | בוא שיר עברי | ד__ר אורי לשמן | 26/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250726-08/PD
 #EXTINF:-1 tvg-id="238342" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/64941/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | מופע מחווה לרחל שפירא מפסטיבל ימי הזמר בחולון | 26/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250726-14/PD
-#EXTINF:-1 tvg-id="238337" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/65160/אילי-גורליצקי.png" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | אילי גורליצקי | 26/07/2025
-https://api.bynetcdn.com:443/Redirector/glz/250726-07/PD
 #EXTINF:-1 tvg-id="238335" tvg-name="צלילי שבת" tvg-logo="https://glz.co.il/media/50723/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - צלילי שבת | צלילי שבת | 26/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250726-05/PD
 #EXTINF:-1 group-title="Date", ⚡⚡25/07/2025⚡⚡
@@ -1486,12 +1500,12 @@ https://awaod01.streamgates.net/103fm_aw/raz2307251.mp3
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2f0e9973-dba4-4e8a-8897-adda00ef1dc4/8cbba9d6-bb31-4ce8-919e-b32301393101/audio.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡19/07/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 tvg-id="237494" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/64944/דן-אלמגור.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | דן אלמגור | 19/07/2025
+https://api.bynetcdn.com:443/Redirector/glz/250719-07/PD
 #EXTINF:-1 tvg-id="237495" tvg-name="בוא שיר עברי" tvg-logo="https://glz.co.il/media/64943/רחל-שפירא.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי | בוא שיר עברי | רחל שפירא | 19/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250719-08/PD
 #EXTINF:-1 tvg-id="237499" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/64941/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | פסטיבל ערד 1997 | 19/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250719-14/PD
-#EXTINF:-1 tvg-id="237494" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/64944/דן-אלמגור.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | דן אלמגור | 19/07/2025
-https://api.bynetcdn.com:443/Redirector/glz/250719-07/PD
 #EXTINF:-1 tvg-id="237492" tvg-name="צלילי שבת" tvg-logo="https://glz.co.il/media/50723/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - צלילי שבת | צלילי שבת | 19/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250719-05/PD
 #EXTINF:-1 group-title="Date", ⚡⚡18/07/2025⚡⚡
@@ -1520,10 +1534,10 @@ https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.m
 https://103files.streamgates.net/103files/sub1307251.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡12/07/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="237065" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/64846/תמונה-להדרן.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | מופע מחווה לשייקה פייקוב ז__ל | 12/07/2025
-https://api.bynetcdn.com:443/Redirector/glz/250712-14/PD
 #EXTINF:-1 tvg-id="237060" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/64786/בוא-שיר-עברי-גבי-ארגוב.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | גבי ארגוב | 12/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250712-07/PD
+#EXTINF:-1 tvg-id="237065" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/64846/תמונה-להדרן.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | מופע מחווה לשייקה פייקוב ז__ל | 12/07/2025
+https://api.bynetcdn.com:443/Redirector/glz/250712-14/PD
 #EXTINF:-1 tvg-id="237056" tvg-name="צלילי שבת" tvg-logo="https://glz.co.il/media/50723/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - צלילי שבת | צלילי שבת | 12/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250712-05/PD
 #EXTINF:-1 group-title="Date", ⚡⚡11/07/2025⚡⚡
@@ -1550,10 +1564,10 @@ https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.m
 https://103files.streamgates.net/103files/sub0807251.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡05/07/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="236593" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | הופעתו של יהורם גאון בקיסריה: עוד אני פוסע _ סיפור חיי | 05/07/2025
-https://api.bynetcdn.com:443/Redirector/glz/250705-14/PD
 #EXTINF:-1 tvg-id="236588" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/64621/לסלו-רוט-בוא-שיר-עברי.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | לסלו רוט | 05/07/2025
 https://api.bynetcdn.com:443/Redirector/glz/250705-07/PD
+#EXTINF:-1 tvg-id="236593" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | הופעתו של יהורם גאון בקיסריה: עוד אני פוסע _ סיפור חיי | 05/07/2025
+https://api.bynetcdn.com:443/Redirector/glz/250705-14/PD
 #EXTINF:-1 group-title="Date", ⚡⚡04/07/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="1477" tvg-name="שבת-עברית-קלאסיקות-מוזיקה-ישראלית | מזל טוב ריקי גל!" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_28.jpg" group-title="מוזיקה שירים",רדיו 103 - שבת-עברית-קלאסיקות-מוזיקה-ישראלית | מזל טוב ריקי גל! | 04/07/2025 | 00:00
@@ -1572,10 +1586,10 @@ https://99sets.livecdn.biz/99sets/eco99_charts_hapshuta/eco99_charts_hapshuta_03
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/5045d056-22e4-4246-a50d-add7014d2eee/e2724a3a-285a-4f78-825d-b30f00bb7482/audio.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡28/06/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="236090" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | חברים שרים אדם מופע לזכר הזמר אדם | 28/06/2025
-https://api.bynetcdn.com:443/Redirector/glz/250628-14/PD
 #EXTINF:-1 tvg-id="236085" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/64558/בוא-שיר-עברי-שוקולד-מנטה-מסטיק-אוצרות-הארכיון.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | שלישיית שוקולד מנטה מסטיק | 28/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/9329190a-7175-4e10-bc09-adbe0079a54a/f3abac7b-ba1e-4be8-8249-b30a00556919/audio.mp3
+#EXTINF:-1 tvg-id="236090" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | חברים שרים אדם מופע לזכר הזמר אדם | 28/06/2025
+https://api.bynetcdn.com:443/Redirector/glz/250628-14/PD
 #EXTINF:-1 group-title="Date", ⚡⚡27/06/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="1520" tvg-name="שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית מצדיעה למייק בורשטיין" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_28.jpg" group-title="מוזיקה שירים",רדיו 103 - שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית מצדיעה למייק בורשטיין | 27/06/2025 | 00:00
@@ -1622,6 +1636,14 @@ https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66dd
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/abe519b6-4dba-405c-82d4-b2fe008bd3ca/audio.mp3
 #EXTINF:-1 tvg-id="234956" tvg-name="מרתון _ משינה" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון _ משינה | מרתון _ משינה _ חלק א׳ | 16/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/dd32cda6-fe6c-4f5b-9e53-b2fe008ab049/audio.mp3
+#EXTINF:-1 tvg-id="234954" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק ד׳ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/7bf51a67-0fe6-4d57-8a19-b2fe0085c3e6/audio.mp3
+#EXTINF:-1 tvg-id="234953" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק ג׳ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/6632eef2-dab8-4c52-a08c-b2fe00853a5d/audio.mp3
+#EXTINF:-1 tvg-id="234952" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק ב׳ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/f59de93c-0c6a-4fdb-bf45-b2fe0081fcb0/audio.mp3
+#EXTINF:-1 tvg-id="234951" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק א_ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/0ff11c47-f25a-417d-8f69-b2fe00818227/audio.mp3
 #EXTINF:-1 tvg-id="235013" tvg-name="מרתון יהודית רביץ" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודית רביץ | _מרתון יהודית רביץ _ חלק ה | 16/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/47105105-3861-49b3-a669-b2fe00dfe5b4/audio.mp3
 #EXTINF:-1 tvg-id="235012" tvg-name="מרתון יהודית רביץ" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודית רביץ | מרתון יהודית רביץ _ חלק ד׳ | 16/06/2025
@@ -1632,14 +1654,14 @@ https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66dd
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/ac34963f-c9eb-4968-9fda-b2fe00ce4b0a/audio.mp3
 #EXTINF:-1 tvg-id="235009" tvg-name="מרתון יהודית רביץ" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודית רביץ | מרתון יהודית רביץ _ חלק א׳ | 16/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/e57bb7a6-4f2e-48b6-9b51-b2fe00cd96a5/audio.mp3
-#EXTINF:-1 tvg-id="234954" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק ד׳ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/7bf51a67-0fe6-4d57-8a19-b2fe0085c3e6/audio.mp3
-#EXTINF:-1 tvg-id="234953" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק ג׳ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/6632eef2-dab8-4c52-a08c-b2fe00853a5d/audio.mp3
-#EXTINF:-1 tvg-id="234952" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק ב׳ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/f59de93c-0c6a-4fdb-bf45-b2fe0081fcb0/audio.mp3
-#EXTINF:-1 tvg-id="234951" tvg-name="מרתון גלי עטרי" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון גלי עטרי | מרתון גלי עטרי _ חלק א_ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/0ff11c47-f25a-417d-8f69-b2fe00818227/audio.mp3
+#EXTINF:-1 tvg-id="234997" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק ד׳ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/d4e8c8b7-9a10-4bb7-8941-b2fe011c5be3/audio.mp3
+#EXTINF:-1 tvg-id="234996" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק ג׳ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/5cdb9d68-701e-44c1-bde6-b2fe011c515e/audio.mp3
+#EXTINF:-1 tvg-id="234995" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק ב׳ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/0c5016d3-e887-44c9-a6d0-b2fe011c3fb7/audio.mp3
+#EXTINF:-1 tvg-id="234994" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק א׳ | 16/06/2025
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/fe6b4406-2bdb-4cb3-9284-b2fe011c3a64/audio.mp3
 #EXTINF:-1 tvg-id="234949" tvg-name="מרתון יוני רכטר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יוני רכטר | מרתון יוני רכטר _ חלק ה׳ | 16/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/81e429c2-be36-491b-b173-b2fe00801158/audio.mp3
 #EXTINF:-1 tvg-id="234948" tvg-name="מרתון יוני רכטר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יוני רכטר | מרתון יוני רכטר _ חלק ד׳ | 16/06/2025
@@ -1650,14 +1672,6 @@ https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66dd
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/2deaf49a-503c-43a6-b9ee-b2fd0109f166/audio.mp3
 #EXTINF:-1 tvg-id="234945" tvg-name="מרתון יוני רכטר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יוני רכטר | מרתון יוני רכטר _ חלק א׳ | 16/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/ba6ae73b-9786-4ad4-80ea-b2fe007898c7/audio.mp3
-#EXTINF:-1 tvg-id="234997" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק ד׳ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/d4e8c8b7-9a10-4bb7-8941-b2fe011c5be3/audio.mp3
-#EXTINF:-1 tvg-id="234996" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק ג׳ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/5cdb9d68-701e-44c1-bde6-b2fe011c515e/audio.mp3
-#EXTINF:-1 tvg-id="234995" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק ב׳ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/0c5016d3-e887-44c9-a6d0-b2fe011c3fb7/audio.mp3
-#EXTINF:-1 tvg-id="234994" tvg-name="מרתון יהודה פוליקר" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון יהודה פוליקר | מרתון יהודה פוליקר _ חלק א׳ | 16/06/2025
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/fe6b4406-2bdb-4cb3-9284-b2fe011c3a64/audio.mp3
 #EXTINF:-1 tvg-id="235000" tvg-name="מרתון צביקה פיק" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון צביקה פיק | מרתון צביקה פיק _ חלק ב׳ | 16/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/b40fe92b-fef6-4241-b899-b2fe01161e96/audio.mp3
 #EXTINF:-1 tvg-id="234999" tvg-name="מרתון צביקה פיק" tvg-logo="https://glz.co.il/media/64219/באנר-אתר.png" group-title="תוכניות מוזיקה",גלי צהל - מרתון צביקה פיק | מרתון צביקה פיק _ חלק א׳ | 16/06/2025
@@ -1702,18 +1716,16 @@ https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66dd
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/2dc66ddb-c379-411b-a065-b2f701370c4f/07adccf2-158f-40ed-b6c6-b2f70137fc96/audio.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡07/06/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="234395" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | הדרן | המופע ״דרך שתי נקודות״ | 07/06/2025
-https://api.bynetcdn.com:443/Redirector/glz/250607-14/PD
 #EXTINF:-1 tvg-id="234388" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/64103/26a9b274-add8-4c78-9ce7-25829c0872cd-1.png" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | אמוץ ברונטמן | 07/06/2025
 https://api.bynetcdn.com:443/Redirector/glz/250607-07/PD
+#EXTINF:-1 tvg-id="234395" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | הדרן | המופע ״דרך שתי נקודות״ | 07/06/2025
+https://api.bynetcdn.com:443/Redirector/glz/250607-14/PD
 #EXTINF:-1 group-title="Date", ⚡⚡06/06/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="1626" tvg-name="שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית מצדיעה לאברהם חלפי" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_28.jpg" group-title="מוזיקה שירים",רדיו 103 - שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית מצדיעה לאברהם חלפי | 06/06/2025 | 00:00
 https://103files.streamgates.net/103files/sub0706201.mp3
 #EXTINF:-1 tvg-id="234369" tvg-name="נעבור את זה יחד" tvg-logo="https://glz.co.il/media/64189/89010d61-b153-460c-b4fb-a38a1448c343.jpeg" group-title="תוכניות מוזיקה",גלגלצ - נעבור את זה יחד | קבלת שבת עם משפחות החטופים: אחינעם בר מארחת את אלה ניר ועינב_ אשתו וילדיו של טל חיימי ז״ל | 06/06/2025
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/eb9763d8-c128-45c2-8110-b09500f1e1f9/2ff4a11c-679a-4ddb-bd43-b2f400d47d44/audio.mp3
-#EXTINF:-1 tvg-id="234372" tvg-name="קבלת שבת" tvg-logo="https://glz.co.il/media/63952/באנר-אתר-2-שבת.png" group-title="תוכניות מוזיקה",גלי צהל - קבלת שבת | קבלת שבת | 06/06/2025
-https://api.bynetcdn.com:443/Redirector/glz/250606-18/PD
 #EXTINF:-1 group-title="Date", ⚡⚡05/06/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/highlight/SegmentImgNew_695961_10_17_.png" group-title="תוכניות מוזיקה",רדיו 103 Items - רז שכניק | _הדימוי של המוזיקה היוונית בארץ היה גרוע_ | הזמר והיוצר יהודה פוליקר במלאות 40 שנה ל_עיניים שלי__ אלבום הסולו שלו • על החטופים המצויים בשבי: _מעצבן אותי שזה לא נגמר_ | ⚡05/06/2025⚡
@@ -1740,10 +1752,10 @@ https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/Efi-Netzer-01-0
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/d8b1316a-e9da-488b-965b-b2ef00c9aa02/audio.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡31/05/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="234016" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | הדרן | זוכרים את דן תורן_ במלאת שנה למותו | 31/05/2025
-https://api.bynetcdn.com:443/Redirector/glz/250531-14/PD
 #EXTINF:-1 tvg-id="234011" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/63962/1f9a05e8-0d14-472d-9b23-053304f65c32.jpeg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי _ אוצרות הארכיון | מתתיהו שלם ושיריו | 31/05/2025
 https://api.bynetcdn.com:443/Redirector/glz/250531-07/PD
+#EXTINF:-1 tvg-id="234016" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | הדרן | זוכרים את דן תורן_ במלאת שנה למותו | 31/05/2025
+https://api.bynetcdn.com:443/Redirector/glz/250531-14/PD
 #EXTINF:-1 group-title="Date", ⚡⚡30/05/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="1657" tvg-name="שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית חוגגת לארקדי דוכין" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_28.jpg" group-title="מוזיקה שירים",רדיו 103 - שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית חוגגת לארקדי דוכין | 30/05/2025 | 00:00
@@ -1762,10 +1774,10 @@ https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_290525.mp3
 https://99sets.livecdn.biz/99sets/eco99_charts_hapshuta/eco99_charts_hapshuta_290525.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡24/05/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="233520" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | איציק קלה מארח את דניאל וויס במועדון הפרנדס | 24/05/2025
-https://api.bynetcdn.com:443/Redirector/glz/250524-14/PD
 #EXTINF:-1 tvg-id="233507" tvg-name="בוא שיר עברי _ אוצרות הארכיון" tvg-logo="https://glz.co.il/media/63797/0001_fl45913944דן-הדני.jpg" group-title="מוזיקה שירים",גלי צהל - בוא שיר עברי _ אוצרות הארכיון | בוא שיר עברי | יהורם גאון | 24/05/2025
 https://api.bynetcdn.com:443/Redirector/glz/250524-07/PD
+#EXTINF:-1 tvg-id="233520" tvg-name="הדרן" tvg-logo="https://glz.co.il/media/49303/באנר-אתר.jpg" group-title="מוזיקה שירים",גלי צהל - הדרן | איציק קלה מארח את דניאל וויס במועדון הפרנדס | 24/05/2025
+https://api.bynetcdn.com:443/Redirector/glz/250524-14/PD
 #EXTINF:-1 group-title="Date", ⚡⚡23/05/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="1702" tvg-name="שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית חוגגת לבעז שרעבי" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_28.jpg" group-title="מוזיקה שירים",רדיו 103 - שבת-עברית-קלאסיקות-מוזיקה-ישראלית | שבת עברית חוגגת לבעז שרעבי | 23/05/2025 | 00:00
@@ -5084,14 +5096,6 @@ https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.m
 https://awaod01.streamgates.net/103fm_aw/raz2412201.mp3
 #EXTINF:-1 tvg-id="13345" tvg-name="המצעד הבינלאומי השנתי 2020" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/special_annual_chart_2020_sofi.jpg" group-title="תוכניות מוזיקה",99FM - מצעדים eco | המצעד הבינלאומי השנתי 2020 | 31/12/2020
 https://99sets.livecdn.biz/99sets/bands_special/special_annual_chart_2020_sofi2.mp3
-#EXTINF:-1 tvg-id="22405" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה שלישית | 31/12/2020
-https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-3/PD.mp4
-#EXTINF:-1 tvg-id="22404" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה שנייה | 31/12/2020
-https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-2/PD.mp4
-#EXTINF:-1 tvg-id="22402" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה ראשונה | 31/12/2020
-https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-1/PD.mp4
-#EXTINF:-1 tvg-id="22406" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה רביעית | 31/12/2020
-https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-4/PD.mp4
 #EXTINF:-1 tvg-id="22417" tvg-name="המצעד הבינלאומי השנתי 2014" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2014 | המצעד הבינלאומי השנתי 2014 _ שעה רביעית | 31/12/2020
 https://api.bynetcdn.com:443/Redirector/glz/CoKNsPboxP/PD.mp4
 #EXTINF:-1 tvg-id="22415" tvg-name="המצעד הבינלאומי השנתי 2014" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2014 | המצעד הבינלאומי השנתי 2014 _ שעה שלישית | 31/12/2020
@@ -5100,6 +5104,14 @@ https://api.bynetcdn.com:443/Redirector/glz/IVTzzFDOiT/PD.mp4
 https://api.bynetcdn.com:443/Redirector/glz/9JEQms33xV/PD.mp4
 #EXTINF:-1 tvg-id="22412" tvg-name="המצעד הבינלאומי השנתי 2014" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2014 | המצעד הבינלאומי השנתי 2014 _ שעה ראשונה | 31/12/2020
 https://api.bynetcdn.com:443/Redirector/glz/bzW5zuBf1Q/PD.mp4
+#EXTINF:-1 tvg-id="22405" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה שלישית | 31/12/2020
+https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-3/PD.mp4
+#EXTINF:-1 tvg-id="22404" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה שנייה | 31/12/2020
+https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-2/PD.mp4
+#EXTINF:-1 tvg-id="22402" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה ראשונה | 31/12/2020
+https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-1/PD.mp4
+#EXTINF:-1 tvg-id="22406" tvg-name="המצעד הבינלאומי השנתי 2011" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הבינלאומי השנתי 2011 | המצעד הבינלאומי השנתי 2011 _ שעה רביעית | 31/12/2020
+https://api.bynetcdn.com:443/Redirector/glz/mitzad2011-4/PD.mp4
 #EXTINF:-1 tvg-id="22422" tvg-name="המצעד הישראלי השנתי תשע_ד" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הישראלי השנתי תשע_ד | המצעד הישראלי השנתי תשע_ד _ שעה 4 | 31/12/2020
 https://api.bynetcdn.com:443/Redirector/glz/DSjJI5iEU8/PD.mp4
 #EXTINF:-1 tvg-id="22421" tvg-name="המצעד הישראלי השנתי תשע_ד" tvg-logo="https://glz.co.il/media/2792/banner-sofi.png" group-title="תוכניות מוזיקה",גלגלצ - המצעד הישראלי השנתי תשע_ד | המצעד הישראלי השנתי תשע_ד _ שעה 3 | 31/12/2020
