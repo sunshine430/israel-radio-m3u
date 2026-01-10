@@ -1,11 +1,33 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 02:28 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 10:09 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="247457" tvg-name="איחוד שידורים עם גלגלצ" tvg-logo="https://glz.co.il/media/50794/באנר-אתר.png" group-title="גלי צהל",גלי צהל - איחוד שידורים עם גלגלצ | איחוד שידורים עם גלגלצ | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-00/PD
+#EXTINF:-1 tvg-id="247460" tvg-name="אולדיז" tvg-logo="https://glz.co.il/media/50730/באנר-אתר.png" group-title="גלי צהל",גלי צהל - אולדיז | אולדיז | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-06/PD
+#EXTINF:-1 tvg-id="247461" tvg-name="בוא שיר עברי" tvg-logo="https://glz.co.il/media/67960/עם-צדי-צרפתי-בגלצ-2016.jpg" group-title="גלי צהל",גלי צהל - בוא שיר עברי | בוא שיר עברי | עם צדי צרפתי לכבוד יום הולדתו ה_85 | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-07/PD
+#EXTINF:-1 tvg-id="247458" tvg-name="מוזיקה" tvg-logo="https://glz.co.il/media/1812/music-specials-new.jpg" group-title="גלי צהל",גלי צהל - מוזיקה | מוזיקה ללילה | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-02/PD
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 2 | 10/01/2026 | 08:00
+https://www.oles.tv/videos/91fm/__archive/20260110080000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 1 | 10/01/2026 | 07:00
+https://www.oles.tv/videos/91fm/__archive/20260110070000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | 10/01/2026 | 06:00
+https://www.oles.tv/videos/91fm/__archive/20260110060000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 10/01/2026 | 05:00
+https://www.oles.tv/videos/91fm/__archive/20260110050000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 10/01/2026 | 04:00
+https://www.oles.tv/videos/91fm/__archive/20260110040000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 10/01/2026 | 03:00
+https://www.oles.tv/videos/91fm/__archive/20260110030000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 10/01/2026 | 02:00
+https://www.oles.tv/videos/91fm/__archive/20260110020000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 10/01/2026 | 01:00
+https://www.oles.tv/videos/91fm/__archive/20260110010000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 10/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260110000000.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡09/01/2026⚡⚡
