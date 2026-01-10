@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 10:09 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 10:32 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -12,6 +12,16 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-06/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-07/PD
 #EXTINF:-1 tvg-id="247458" tvg-name="מוזיקה" tvg-logo="https://glz.co.il/media/1812/music-specials-new.jpg" group-title="גלי צהל",גלי צהל - מוזיקה | מוזיקה ללילה | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-02/PD
+#EXTINF:-1 tvg-id="247463" tvg-name="שבת בבוקר עם ירדן ודידי" tvg-logo="https://glz.co.il/media/61186/שבת-בבוקר-באנר-אתר-מוכן-חדש.jpg" group-title="גלי צהל",גלי צהל - שבת בבוקר עם ירדן ודידי | שבת בבוקר עם ירדן ודידי | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-09/PD
+#EXTINF:-1 tvg-id="247464" tvg-name="מסע עם יורם סוויסה" tvg-logo="https://glz.co.il/media/49275/באנר-אתר.png" group-title="גלי צהל",גלי צהל - מסע עם יורם סוויסה | מסע עם יורם סוויסה | ריטה | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-10/PD
+#EXTINF:-1 tvg-id="247459" tvg-name="צלילי שבת" tvg-logo="https://glz.co.il/media/50723/באנר-אתר.png" group-title="גלי צהל",גלי צהל - צלילי שבת | צלילי שבת | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-05/PD
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 10/01/2026 | 10:00
+https://www.oles.tv/videos/91fm/__archive/20260110100000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 10/01/2026 | 09:00
+https://www.oles.tv/videos/91fm/__archive/20260110090000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 2 | 10/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260110080000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 1 | 10/01/2026 | 07:00
