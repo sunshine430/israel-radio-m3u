@@ -1,9 +1,13 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 20:32 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 22:32 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 tvg-id="6962acc331323ed22518afc8" tvg-name="מהדורת מוצאי שבת | מהדורת מוצאי שבת" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/a2077153-2d4f-4411-82ed-13b917e1f742/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - מהדורת מוצאי שבת | מהדורת מוצאי שבת | 10/01/2026 | 19:47
+https://channel14.vod.immergo.tv/channel14/transcoded/a2077153-2d4f-4411-82ed-13b917e1f742/hls/master.m3u8
+#EXTINF:-1 tvg-id="69629c581aa2a1bb2417e744" tvg-name="השבוע עם אראל סג"ל | השבוע" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/719d5172-f625-4f88-b03c-15506373b5d7.jpeg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - השבוע עם אראל סג"ל | השבוע | 10/01/2026 | 18:37
+https://channel14.vod.immergo.tv/channel14/transcoded/b5b6d96b-a24f-4c46-8cf7-16812dd7e4fd/hls/master.m3u8
 #EXTINF:-1 tvg-id="247457" tvg-name="איחוד שידורים עם גלגלצ" tvg-logo="https://glz.co.il/media/50794/באנר-אתר.png" group-title="גלי צהל",גלי צהל - איחוד שידורים עם גלגלצ | איחוד שידורים עם גלגלצ | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-00/PD
 #EXTINF:-1 tvg-id="247460" tvg-name="אולדיז" tvg-logo="https://glz.co.il/media/50730/באנר-אתר.png" group-title="גלי צהל",גלי צהל - אולדיז | אולדיז | 10/01/2026
@@ -28,8 +32,14 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-16/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-18/PD
 #EXTINF:-1 tvg-id="247473" tvg-name="תכניות מיוחדות" tvg-logo="https://glz.co.il/media/52543/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - תכניות מיוחדות | תוכנית מיוחדת ליום השפה העברית | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-20/PD
+#EXTINF:-1 tvg-id="247474" tvg-name="תכניות מיוחדות" tvg-logo="https://glz.co.il/media/52543/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - תכניות מיוחדות | ספיישל על דיוויד בואי מציפורי לילה מוזיקליות | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-21/PD
 #EXTINF:-1 tvg-id="787189" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 10/01/2026 | 19:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789757200000&stopTime=789760800000
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 2 | 10/01/2026 | 22:00
+https://www.oles.tv/videos/91fm/__archive/20260110220000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 1 | 10/01/2026 | 21:00
+https://www.oles.tv/videos/91fm/__archive/20260110210000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 12" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 12 | 10/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260110200000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 11" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 11 | 10/01/2026 | 19:00
@@ -84,6 +94,8 @@ https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/bli090126.mp3
 https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam090126.mp3
 #EXTINF:-1 tvg-id="66363" tvg-name="תוכנית הנדל״ן של ישראל" tvg-logo="https://gly.co.il/Upload/Media/Images/038026c9-1ad4-4018-8e75-1fc5e9cf7ebd.jpg" group-title="גלי ישראל",גלי ישראל - תוכנית הנדל״ן של ישראל | 09/01/2026
 https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nablan090126.mp3
+#EXTINF:-1 tvg-id="6962958a5dca588179b598ea" tvg-name="חדשות שישי | חדשות שישי" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/fc6dd5f7-97d6-4315-9a48-12256b6d9f54/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - חדשות שישי | חדשות שישי | 09/01/2026 | 18:08
+https://channel14.vod.immergo.tv/channel14/transcoded/fc6dd5f7-97d6-4315-9a48-12256b6d9f54/hls/master.m3u8
 #EXTINF:-1 tvg-id="695d350571326035cee30534" tvg-name="בקטע טוב | בקטע טוב" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/bbe12d80-a8c7-4661-aa69-7d5e42b55e94.jpeg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - בקטע טוב | בקטע טוב | 09/01/2026 | 16:20
 https://channel14.vod.immergo.tv/channel14/transcoded/6e7ed96b-ddc7-4b55-a593-13a67a107f6e/hls/master.m3u8
 #EXTINF:-1 tvg-id="695d350597323cd1cf9da747" tvg-name="טעמים של שבת | טעמים של שבת - אריאל עידן" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/d8c7690d-06bf-4c33-bb68-3344fcf42c1c.jpeg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - טעמים של שבת | טעמים של שבת - אריאל עידן | 09/01/2026 | 16:19
