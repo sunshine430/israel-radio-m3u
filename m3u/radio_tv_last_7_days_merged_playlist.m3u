@@ -1,9 +1,15 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 22:32 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 00:32 | 11/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 group-title="Date", ⚡⚡11/01/2026⚡⚡
+https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 tvg-id="11/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 11/01/2026 | 00:00
+https://www.oles.tv/videos/91fm/__archive/20260111000000.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
+#EXTINF:-1 tvg-id="6962bb75355f8c837a8987a6" tvg-name="הפטריוטים | הפטריוטים" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/0699151e-3c25-481a-8101-98b9a34c7086.jpeg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - הפטריוטים | הפטריוטים | 10/01/2026 | 20:51
+https://channel14.vod.immergo.tv/channel14/transcoded/374887d6-9143-443d-b133-0fafb25a8c58/hls/master.m3u8
 #EXTINF:-1 tvg-id="6962acc331323ed22518afc8" tvg-name="מהדורת מוצאי שבת | מהדורת מוצאי שבת" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/a2077153-2d4f-4411-82ed-13b917e1f742/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - מהדורת מוצאי שבת | מהדורת מוצאי שבת | 10/01/2026 | 19:47
 https://channel14.vod.immergo.tv/channel14/transcoded/a2077153-2d4f-4411-82ed-13b917e1f742/hls/master.m3u8
 #EXTINF:-1 tvg-id="69629c581aa2a1bb2417e744" tvg-name="השבוע עם אראל סג"ל | השבוע" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/719d5172-f625-4f88-b03c-15506373b5d7.jpeg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - השבוע עם אראל סג"ל | השבוע | 10/01/2026 | 18:37
@@ -34,8 +40,14 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-18/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-20/PD
 #EXTINF:-1 tvg-id="247474" tvg-name="תכניות מיוחדות" tvg-logo="https://glz.co.il/media/52543/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - תכניות מיוחדות | ספיישל על דיוויד בואי מציפורי לילה מוזיקליות | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-21/PD
+#EXTINF:-1 tvg-id="787191" tvg-name="הדבר הבא" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590948000_TV10_hadavar_haba.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - הדבר הבא | 10/01/2026 | 22:30
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789769800000&stopTime=789775200000
+#EXTINF:-1 tvg-id="787168" tvg-name="מחלקה ראשונה" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590945000_TV10_machlaka_rishona.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - מחלקה ראשונה | 10/01/2026 | 22:00
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789768000000&stopTime=789769800000
 #EXTINF:-1 tvg-id="787189" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 10/01/2026 | 19:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789757200000&stopTime=789760800000
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | 10/01/2026 | 23:00
+https://www.oles.tv/videos/91fm/__archive/20260110230000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 2 | 10/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260110220000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 1 | 10/01/2026 | 21:00
@@ -1048,24 +1060,6 @@ https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_050126.mp3
 https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_050126.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡04/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="66180" tvg-name="לקום על צד ימין עם ארז תדמור | 06:00" tvg-logo="https://gly.co.il/Upload/Media/Images/b6231580-5e64-432d-a894-2565e9a91b8c.png" group-title="גלי ישראל",גלי ישראל - לקום על צד ימין עם ארז תדמור | 06:00 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum04012026.mp3
-#EXTINF:-1 tvg-id="66181" tvg-name="אבי רצון בבוקר | 07:00" tvg-logo="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" group-title="גלי ישראל",גלי ישראל - אבי רצון בבוקר | 07:00 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avira04012026.mp3
-#EXTINF:-1 tvg-id="66182" tvg-name="שרון גל | 08:00" tvg-logo="https://gly.co.il/Upload/Media/Images/dbfaf2a7-5cfe-4250-9c55-4e38c4a50b15.jpg" group-title="גלי ישראל",גלי ישראל - שרון גל | 08:00 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/sharon04012026.mp3
-#EXTINF:-1 tvg-id="66183" tvg-name="שי גולדשטיין וארז תדמור | 09:00" tvg-logo="https://gly.co.il/Upload/Media/Images/7632a7b9-7c39-48b6-a265-e16abb9edbff.jpg" group-title="גלי ישראל",גלי ישראל - שי גולדשטיין וארז תדמור | 09:00 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/shaierez04012026.mp3
-#EXTINF:-1 tvg-id="66205" tvg-name="דיבורים כמו חול_ עם שי גולדשטיין ואיתן אורקיבי" tvg-logo="https://gly.co.il/Upload/Media/Images/36c6bf9d-9157-4a6d-87d6-e6394be36817.jpg" group-title="גלי ישראל",גלי ישראל - דיבורים כמו חול_ עם שי גולדשטיין ואיתן אורקיבי | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/dibur0401202526.mp3
-#EXTINF:-1 tvg-id="66186" tvg-name="פתחי וזמרי בעם | 10:00" tvg-logo="https://gly.co.il/Upload/Media/Images/6736252c-4cd7-458a-8176-e8db1817c147.jpg" group-title="גלי ישראל",גלי ישראל - פתחי וזמרי בעם | 10:00 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/fat04012026.mp3
-#EXTINF:-1 tvg-id="66196" tvg-name="יומן צהריים עם מתי טוכפלד | 13:00" tvg-logo="https://gly.co.il/Upload/Media/Images/313f1f0a-adfe-4d71-8496-5ddc10d5d378.jpg" group-title="גלי ישראל",גלי ישראל - יומן צהריים עם מתי טוכפלד | 13:00 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yoman040120226.mp3
-#EXTINF:-1 tvg-id="66211" tvg-name=" יעקב ברדוגו עם דורון כהן | 16:30" tvg-logo="https://gly.co.il/Upload/Media/Images/90a9c599-2ad3-4ce9-8161-71ee30b56fb2.jpg" group-title="גלי ישראל",גלי ישראל -  יעקב ברדוגו עם דורון כהן | 16:30 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/reva040126.mp3
-#EXTINF:-1 tvg-id="66214" tvg-name="התכנית של אלעד עמדי | 18:00" tvg-logo="https://gly.co.il/Upload/Media/Images/0c5c4961-8d24-4f24-9bab-18a348ff2259.jpg" group-title="גלי ישראל",גלי ישראל - התכנית של אלעד עמדי | 18:00 | 04/01/2026
-https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/amedi05012025.mp3
 #EXTINF:-1 tvg-id="695ad30673756bcc6d989ef1" tvg-name="הפטריוטים | הפטריוטים" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/5068a22d-9b07-4ca9-b1fa-ea0baf1a4adc/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - הפטריוטים | הפטריוטים | 04/01/2026 | 20:52
 https://channel14.vod.immergo.tv/channel14/transcoded/5068a22d-9b07-4ca9-b1fa-ea0baf1a4adc/hls/master.m3u8
 #EXTINF:-1 tvg-id="695abcc95adddf5ba931ac4d" tvg-name="החדשות | החדשות" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/4ae4a6c8-e4d3-4ce8-8139-6b3d9067981f/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - החדשות | החדשות | 04/01/2026 | 19:17
@@ -1090,26 +1084,6 @@ https://channel14.vod.immergo.tv/channel14/transcoded/454d5bfa-8d2b-4803-be00-74
 https://channel14.vod.immergo.tv/channel14/transcoded/3a94e2b5-b6de-4c96-903e-5c872df95ac4/hls/master.m3u8
 #EXTINF:-1 tvg-id="695a6af867050a8721c8ca02" tvg-name="ישראל הבוקר | ישראל הבוקר" tvg-logo="https://channel14.vod.immergo.tv/channel14/transcoded/1de162d5-d9ff-43e4-b97e-8e798f9219ae/poster.jpg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - ישראל הבוקר | ישראל הבוקר | 04/01/2026 | 13:28
 https://channel14.vod.immergo.tv/channel14/transcoded/1de162d5-d9ff-43e4-b97e-8e798f9219ae/hls/master.m3u8
-#EXTINF:-1 tvg-id="247066" tvg-name="מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ" tvg-logo="https://glz.co.il/media/67948/img_0269.png" group-title="גלגלצ",גלגלצ - מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ | עסק תחת אש | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/9ce22dbd-cfe5-4a28-bbb9-b3c50119ca30/1a0b48c8-cfbe-4bdc-aad2-b3c5011abec4/audio.mp3
-#EXTINF:-1 tvg-id="247067" tvg-name="מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ" tvg-logo="https://glz.co.il/media/67948/img_0269.png" group-title="גלגלצ",גלגלצ - מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ | משפחה במילואים | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/9ce22dbd-cfe5-4a28-bbb9-b3c50119ca30/c2f15d69-6535-4edd-a25e-b3c5011d5c8e/audio.mp3
-#EXTINF:-1 tvg-id="247068" tvg-name="מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ" tvg-logo="https://glz.co.il/media/67948/img_0269.png" group-title="גלגלצ",גלגלצ - מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ | מהמדים לנישואים הטריים | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/9ce22dbd-cfe5-4a28-bbb9-b3c50119ca30/aa87c045-da69-48d1-bacf-b3c5011f3b07/audio.mp3
-#EXTINF:-1 tvg-id="247069" tvg-name="מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ" tvg-logo="https://glz.co.il/media/67948/img_0269.png" group-title="גלגלצ",גלגלצ - מהמדים הביתה: הפודקאסט של תוכנית עמית וגלצ_גלגלצ | אמא_ בן ומלחמה | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/9ce22dbd-cfe5-4a28-bbb9-b3c50119ca30/894e02f2-6249-4ac1-8176-b3c5011f4b7f/audio.mp3
-#EXTINF:-1 tvg-id="247161" tvg-name="מדינה בדרך עם הדר מרקס" tvg-logo="https://glz.co.il/media/53856/מדינה-בדרך.jpg" group-title="גלגלצ",גלגלצ - מדינה בדרך עם הדר מרקס | מדינה בדרך עם הדר מרקס 04/01/26 | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/59ce075a-ac52-479c-b557-add600fa73a4/b51bfe2d-00d8-4c92-ad0d-b3c800954b14/audio.mp3
-#EXTINF:-1 tvg-id="247165" tvg-name="קולות החיילים" tvg-logo="https://glz.co.il/media/61618/יולי-רובין-שטיין-מלבני.jpeg" group-title="גלגלצ",גלגלצ - קולות החיילים | קולות החיילים עם הבחירות של מפקדת חטיבת הנח״ל | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/23533ac5-48b0-4e7a-a6ea-adda00f2a8c8/b81f2961-af90-4a17-9c49-b3c800a6e154/audio.mp3
-#EXTINF:-1 tvg-id="247169" tvg-name="עשורים" tvg-logo="https://glz.co.il/media/53744/עשורים-ערן-אליקים.jpeg" group-title="גלגלצ",גלגלצ - עשורים | קווין_ כוורת וגלי עטרי נפגשים לעשורים 70 עם ערן אליקים | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/428e357b-d746-4171-a2a1-add601036e0c/7e5dc5be-ecfd-4529-a432-b3c800e29a30/audio.mp3
-#EXTINF:-1 tvg-id="247188" tvg-name="אחינעם בר" tvg-logo="https://glz.co.il/media/59362/אחינעם-בר-ריק.png" group-title="גלגלצ",גלגלצ - אחינעם בר | אחינעם בר 04/01/26 | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/ba5498e3-7523-4424-8388-add7016c9350/86afe044-84fb-47f8-82ae-b3c8012f2ce8/audio.mp3
-#EXTINF:-1 tvg-id="247208" tvg-name="קוואמי" tvg-logo="https://glz.co.il/media/53756/קוואמי-ריק.png" group-title="גלגלצ",גלגלצ - קוואמי | קוואמי עם תכנית ראשונה של מוזיקה קצת אחרת ל2026 | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/75729d27-226f-4912-8920-add601016462/199b4b32-b02f-49a7-9a24-b3c9005c3bb5/audio.mp3
-#EXTINF:-1 tvg-id="247213" tvg-name="גיא חג_ג_" tvg-logo="https://glz.co.il/media/63219/גיא-חגג-מלבני.jpeg" group-title="גלגלצ",גלגלצ - גיא חג_ג_ | גיא חג_ג_ 04/01/26 | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/cad3f80d-4c52-4bd6-a526-ae28000db4c1/bb3b9f7f-2576-474b-a654-b3c9006dfdf7/audio.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_368.jpg" group-title="רדיו 103 Items",רדיו 103 Items - אודי סגל וענת דוידוב | _שהחיינו והגיענו לזמן הזה_ | עמיחי אתאלי וגדעון אוקו פתחו את שידורם הראשון בתוכנית _שבע תשע_ • אתאלי בירך _שהחיינו_ וסיפר שקנה סוודר חדש לכבוד המאורע | ⚡04/01/2026⚡
 https://awaod01.streamgates.net/103fm_aw/ayl0401261.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/highlight/SegmentImgNew_718702_12_42_.jpg" group-title="רדיו 103 Items",רדיו 103 Items - אודי סגל וענת דוידוב | מה קורה בונצואלה? | נדב איל (_ידיעות אחרונות_) עדכן במצבה של ונצואלה לאחר חטיפת נשיא המדינה מדורו לארה_ב: _תמונות יוצאות דופן עם כובע משונה_ | ⚡04/01/2026⚡
@@ -1270,32 +1244,6 @@ https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/70b9dbd1-11
 https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/b15d993c-3f65-4b21-bdde-b1ab00a9d2d4/4d450a0f-b60e-4138-9b52-b3c8009f48be/audio.mp3?utm_source=Podcast&amp;in_playlist=4adb2a1a-5b13-4a60-8293-b1ab00aa746c
 #EXTINF:-1 tvg-id="64" tvg-name="שבע-תשע-אודי-סגל-ענת-דוידוב | אבי דיכטר: _חמאס שולט בשטח שבו ישראל לא נמצאת_ |4 בינואר 2026" tvg-logo="https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/0ff77cfa-006d-4c60-8658-b1ab00ac7f95/59fea618-17d2-4d9a-83dc-b1ab00acd209/image.jpg?t=1767520030&amp;size=Large" group-title="רדיו 103",רדיו 103 - שבע-תשע-אודי-סגל-ענת-דוידוב | אבי דיכטר: _חמאס שולט בשטח שבו ישראל לא נמצאת_ |4 בינואר 2026 | 04/01/2026 | 07:27
 https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/0ff77cfa-006d-4c60-8658-b1ab00ac7f95/eeba36db-a6ec-44a0-bd2d-b3c80079340a/audio.mp3?utm_source=Podcast&amp;in_playlist=59fea618-17d2-4d9a-83dc-b1ab00acd209
-#EXTINF:-1 tvg-id="65" tvg-name="איפה-הכסף-ענת-דוידוב | התוכנית המלאה 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_180.jpg" group-title="רדיו 103",רדיו 103 - איפה-הכסף-ענת-דוידוב | התוכנית המלאה 04/01/26 | 04/01/2026 | 00:00
-https://103files.streamgates.net/103files/kes0401269.mp3
-#EXTINF:-1 tvg-id="66" tvg-name="איריס-קול | התוכנית המלאה 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_9.jpg" group-title="רדיו 103",רדיו 103 - איריס-קול | התוכנית המלאה 04/01/26 | 04/01/2026 | 00:00
-https://103files.streamgates.net/103files/kol0401269.mp3
-#EXTINF:-1 tvg-id="67" tvg-name="בן-ואריה-בן-כספית-ואריה-אלדד | התוכנית המלאה 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_12.jpg" group-title="רדיו 103",רדיו 103 - בן-ואריה-בן-כספית-ואריה-אלדד | התוכנית המלאה 04/01/26 | 04/01/2026 | 00:00
-https://103files.streamgates.net/103files/feb0401268.mp3
-#EXTINF:-1 tvg-id="68" tvg-name="גיא-פלג | התוכנית המלאה 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_264.jpg" group-title="רדיו 103",רדיו 103 - גיא-פלג | התוכנית המלאה 04/01/26 | 04/01/2026 | 00:00
-https://103files.streamgates.net/103files/pel04012611.mp3
-#EXTINF:-1 tvg-id="69" tvg-name="פנינה-בת-צבי-הבוקר-טוב | כותרות הבוקר 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_21.jpg" group-title="רדיו 103",רדיו 103 - פנינה-בת-צבי-הבוקר-טוב | כותרות הבוקר 04/01/26 | 04/01/2026 | 00:00
-https://103files.streamgates.net/103files/pni0401261.mp3
-#EXTINF:-1 tvg-id="70" tvg-name="רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_627.jpg" group-title="רדיו 103",רדיו 103 - רון-שלום-יואב-כהן-שניים-עד-ארבע | התוכנית המלאה 04/01/26 | 04/01/2026 | 00:00
-https://103files.streamgates.net/103files/har040126-17.mp3
-#EXTINF:-1 tvg-id="71" tvg-name="תחשבו-טוב | התוכנית המלאה 04/01/26" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_239.jpg" group-title="רדיו 103",רדיו 103 - תחשבו-טוב | התוכנית המלאה 04/01/26 | 04/01/2026 | 00:00
-https://103files.streamgates.net/103files/tov0401266.mp3
-#EXTINF:-1 tvg-id="318694" tvg-name="אודליה AI" tvg-logo="https://fm102-recordings.s3.amazonaws.com/images/1767531964093_AIO_____.jpg" group-title="רדיו 102",רדיו 102 - רדיו 102 - רדיו 102 - אודליה AI | 04-01-2026 | 16:00
-https://podcast.go77.link/102fm/AIO/4343-41494F20D7-695a65b8.mp3
-#EXTINF:-1 tvg-id="318696" tvg-name="אופירה אסייג" tvg-logo="https://fm102-recordings.s3.amazonaws.com/images/1767550359403____________.jpg" group-title="רדיו 102",רדיו 102 - רדיו 102 - רדיו 102 - אופירה אסייג | 04-01-2026 | 20:13
-https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-695aad93.mp3
-#EXTINF:-1 tvg-id="318695" tvg-name="גלעד להמן" tvg-logo="https://fm102-recordings.s3.amazonaws.com/images/1767538716937_______________.jpg" group-title="רדיו 102",רדיו 102 - רדיו 102 - רדיו 102 - גלעד להמן | 04-01-2026 | 16:59
-https://podcast.go77.link/102fm/GILADLEMAN/4343-D792D79CD7-695a8018.mp3
-#EXTINF:-1 tvg-id="318683" tvg-name="דליק ווליניץ" tvg-logo="https://fm102-recordings.s3.amazonaws.com/images/1767504770901__________.jpg" group-title="רדיו 102",רדיו 102 - רדיו 102 - רדיו 102 - דליק ווליניץ | 04-01-2026 | 07:33
-https://podcast.go77.link/102fm/DALIK/4343-D7A9D7A920-6959fb80.mp3
-#EXTINF:-1 tvg-id="318689" tvg-name="שרון טייכר וערן זרחוביץ׳" tvg-logo="https://fm102-recordings.s3.amazonaws.com/images/1767524434568__________3.jpg" group-title="רדיו 102",רדיו 102 - רדיו 102 - רדיו 102 - שרון טייכר וערן זרחוביץ׳ | 04-01-2026 | 18:02
-https://podcast.go77.link/102fm/TANDZ/4343-D798D799D7-695a484d.mp3
-#EXTINF:-1 tvg-id="318690" tvg-name="שרלוט לוי" tvg-logo="https://fm102-recordings.s3.amazonaws.com/images/1767526167549_________________.jpg" group-title="רדיו 102",רדיו 102 - רדיו 102 - רדיו 102 - שרלוט לוי | 04-01-2026 | 13:30
-https://podcast.go77.link/102fm/SHARLOT/4343-D7A9D7A8D7-695a4f13.mp3
 #EXTINF:-1 tvg-id="66175" tvg-name="בוקר טוב דרום" tvg-logo="https://radiodarom.co.il/Upload/Media/Images/c946b3d0-4bf5-419b-b906-77dbb9f52af6.jpg" group-title="רדיו דרום",רדיו דרום - בוקר טוב דרום | 04/01/2026
 https://darom97-od.streamgates.net/Darom97_OD/Audio/btd04012026.mp3
 #EXTINF:-1 tvg-id="66184" tvg-name="הבוקר עם שרון גל " tvg-logo="https://radiodarom.co.il/Upload/Media/Images/4e319138-2ec2-4eb3-91bd-144da85918ff.jpg" group-title="רדיו דרום",רדיו דרום - הבוקר עם שרון גל  | 04/01/2026
@@ -1308,38 +1256,6 @@ https://darom97-od.streamgates.net/Darom97_OD/Audio/fathiz040126.mp3
 https://darom97-od.streamgates.net/Darom97_OD/Audio/ravivkaner040125.mp3
 #EXTINF:-1 tvg-id="66193" tvg-name="תשע _ המגזין של רדיו דרום " tvg-logo="https://radiodarom.co.il/Upload/Media/Images/ee99fb09-eb53-445c-a7b9-28f936620eb8.jpg" group-title="רדיו דרום",רדיו דרום - תשע _ המגזין של רדיו דרום  | 04/01/2026
 https://darom97-od.streamgates.net/Darom97_OD/Audio/magzi040126.mp3
-#EXTINF:-1 tvg-id="247138" tvg-name="בוקר טוב ישראל" tvg-logo="https://glz.co.il/media/49281/באנר-אתר.png" group-title="גלי צהל",גלי צהל - בוקר טוב ישראל | בוקר טוב ישראל | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-06/PD
-#EXTINF:-1 tvg-id="247147" tvg-name="יניר קוזין וספי עובדיה" tvg-logo="https://glz.co.il/media/61050/ספי-ויניר.png" group-title="גלי צהל",גלי צהל - יניר קוזין וספי עובדיה | יניר קוזין וספי עובדיה | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-08/PD
-#EXTINF:-1 tvg-id="247137" tvg-name="לילה ישראלי" tvg-logo="https://glz.co.il/media/63933/לילה-באנר-אתר-1.png" group-title="גלי צהל",גלי צהל - לילה ישראלי | לילה ישראלי | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-05/PD
-#EXTINF:-1 tvg-id="247136" tvg-name="לילה ישראלי" tvg-logo="https://glz.co.il/media/63933/לילה-באנר-אתר-1.png" group-title="גלי צהל",גלי צהל - לילה ישראלי | לילה ישראלי | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-02/PD
-#EXTINF:-1 tvg-id="247135" tvg-name="ציפורי לילה מאחורי הקלעים" tvg-logo="https://glz.co.il/media/51770/באנר-אתר.png" group-title="גלי צהל",גלי צהל - ציפורי לילה מאחורי הקלעים | ציפורי לילה מאחורי הקלעים | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-00/PD
-#EXTINF:-1 tvg-id="247154" tvg-name="רינו צרור" tvg-logo="https://glz.co.il/media/49287/באנר-אתר.png" group-title="גלי צהל",גלי צהל - רינו צרור | רינו צרור | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-10/PD
-#EXTINF:-1 tvg-id="247160" tvg-name="יומן הצהריים" tvg-logo="https://glz.co.il/media/49188/באנר-אתר.png" group-title="גלי צהל",גלי צהל - יומן הצהריים | יומן הצהריים | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-12/PD
-#EXTINF:-1 tvg-id="247162" tvg-name="טוב שבאתם" tvg-logo="https://glz.co.il/media/66960/באנר-אתר-קטן.png" group-title="גלי צהל",גלי צהל - טוב שבאתם | טוב שבאתם | אנה ארונוב וחיים פרשטיין | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-13/PD
-#EXTINF:-1 tvg-id="247135" tvg-name="ציפורי לילה מאחורי הקלעים" tvg-logo="https://glz.co.il/media/51770/באנר-אתר.png" group-title="גלי צהל",גלי צהל - ציפורי לילה מאחורי הקלעים | ציפורי לילה מאחורי הקלעים | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/36ff8752-d179-496b-9fb2-ae2700eef83a/2be2ae1b-b44f-48c3-9ee6-b3c80001f9b6/audio.mp3
-#EXTINF:-1 tvg-id="247168" tvg-name="יהיה בסדר" tvg-logo="https://glz.co.il/media/63932/אתר-יהיה-בסדר.png" group-title="גלי צהל",גלי צהל - יהיה בסדר | יהיה בסדר | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-15/PD
-#EXTINF:-1 tvg-id="247170" tvg-name="ארבע אחרי הצהריים" tvg-logo="https://glz.co.il/media/61053/ארבע-אחרי-הצהריים.png" group-title="גלי צהל",גלי צהל - ארבע אחרי הצהריים | ארבע אחרי הצהריים | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-16/PD
-#EXTINF:-1 tvg-id="247172" tvg-name="חמש בערב" tvg-logo="https://glz.co.il/media/50043/באנר-אתר.png" group-title="גלי צהל",גלי צהל - חמש בערב | חמש בערב | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-17/PD
-#EXTINF:-1 tvg-id="247173" tvg-name="החזית הכלכלית" tvg-logo="https://glz.co.il/media/61016/החזית-הכלכלית.png" group-title="גלי צהל",גלי צהל - החזית הכלכלית | החזית הכלכלית | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-18/PD
-#EXTINF:-1 tvg-id="247171" tvg-name="באופן מילולי" tvg-logo="https://glz.co.il/media/63921/באנר-אתר-אבשלום.png" group-title="גלי צהל",גלי צהל - באופן מילולי | באופן מילולי | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-1655/PD
-#EXTINF:-1 tvg-id="247193" tvg-name="24 היום שהיה" tvg-logo="https://glz.co.il/media/50792/באנר-אתר.png" group-title="גלי צהל",גלי צהל - 24 היום שהיה | 24 היום שהיה | 04/01/2026
-https://api.bynetcdn.com:443/Redirector/glz/260104-23/PD
-#EXTINF:-1 tvg-id="247190" tvg-name="טוב שבאתם" tvg-logo="https://glz.co.il/media/67978/בתןך-הפודקאסט-פי-2-13.jpg" group-title="גלי צהל",גלי צהל - טוב שבאתם | טוב שבאתם עם אנה ארונוב וחיים פרשטיין | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/21b1861a-97dc-4b77-aa78-b37e00aa8557/bd2bf1ad-b4c9-4f96-833a-b3c801472cb1/audio.mp3
 #EXTINF:-1 tvg-id="787047" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 04/01/2026 | 21:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789246000000&stopTime=789249600000
 #EXTINF:-1 tvg-id="787064" tvg-name="מחלקה ראשונה" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590945000_TV10_machlaka_rishona.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - מחלקה ראשונה | 04/01/2026 | 19:30
@@ -1358,8 +1274,6 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789174000000&stopTime=789180300000
 #EXTINF:-1 tvg-id="784596" tvg-name="דין וחשבון" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1746303632000_TV10_DINMULI.jpg?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - דין וחשבון | 04/01/2026 | 00:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789170400000&stopTime=789174000000
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבה פלוס  04/01/26" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/002.jpg" group-title="רדיו 100fm",100FM - אהבה פלוס | אהבה פלוס  04/01/26 | 04/01/2026
-https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/LOVE-4.1.26.mp3
 #EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 04/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260104230000.mp3
 #EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 04/01/2026 | 22:00
@@ -1414,62 +1328,12 @@ https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_040126.mp3
 https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_040126.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡03/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="69598a18f804a167daf4470b" tvg-name="הפטריוטים | הפטריוטים" tvg-logo="https://channel14.vod.immergo.tv/channel14/uploaded/a05d9964-2e56-4999-80fb-622bfceff21c.jpeg" group-title="ערוץ 14",ערוץ 14 - ערוץ 14 - הפטריוטים | הפטריוטים | 03/01/2026 | 21:29
-https://channel14.vod.immergo.tv/channel14/transcoded/4b871915-93c0-46c9-9231-0bd06ed833f6/hls/master.m3u8
 #EXTINF:-1 tvg-id="784567" tvg-name="סוגרים שוק" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590947000_TV10_sogrim_shuk.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - סוגרים שוק | 03/01/2026 | 21:30
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789161400000&stopTime=789167700000
 #EXTINF:-1 tvg-id="784594" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 03/01/2026 | 19:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789152400000&stopTime=789156000000
 #EXTINF:-1 tvg-id="784566" tvg-name="הדבר הבא" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590948000_TV10_hadavar_haba.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - הדבר הבא | 03/01/2026 | 18:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789148800000&stopTime=789152400000
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | 03/01/2026 | 23:00
-https://www.oles.tv/videos/91fm/__archive/20260103230000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 2 | 03/01/2026 | 22:00
-https://www.oles.tv/videos/91fm/__archive/20260103220000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 1 | 03/01/2026 | 21:00
-https://www.oles.tv/videos/91fm/__archive/20260103210000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 12" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 12 | 03/01/2026 | 20:00
-https://www.oles.tv/videos/91fm/__archive/20260103200000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 11" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 11 | 03/01/2026 | 19:00
-https://www.oles.tv/videos/91fm/__archive/20260103190000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 10" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 10 | 03/01/2026 | 18:00
-https://www.oles.tv/videos/91fm/__archive/20260103180000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 9" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 9 | 03/01/2026 | 17:00
-https://www.oles.tv/videos/91fm/__archive/20260103170000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 8" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 8 | 03/01/2026 | 16:00
-https://www.oles.tv/videos/91fm/__archive/20260103160000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 7" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 7 | 03/01/2026 | 15:00
-https://www.oles.tv/videos/91fm/__archive/20260103150000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 6" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 6 | 03/01/2026 | 14:00
-https://www.oles.tv/videos/91fm/__archive/20260103140000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 5" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 5 | 03/01/2026 | 13:00
-https://www.oles.tv/videos/91fm/__archive/20260103130000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 03/01/2026 | 12:00
-https://www.oles.tv/videos/91fm/__archive/20260103120000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 03/01/2026 | 11:00
-https://www.oles.tv/videos/91fm/__archive/20260103110000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 03/01/2026 | 10:00
-https://www.oles.tv/videos/91fm/__archive/20260103100000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 03/01/2026 | 09:00
-https://www.oles.tv/videos/91fm/__archive/20260103090000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc11ffeb604b53d718e60-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 2 | 03/01/2026 | 08:00
-https://www.oles.tv/videos/91fm/__archive/20260103080000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc11ffeb604b53d718e60-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 1 | 03/01/2026 | 07:00
-https://www.oles.tv/videos/91fm/__archive/20260103070000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | 03/01/2026 | 06:00
-https://www.oles.tv/videos/91fm/__archive/20260103060000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 03/01/2026 | 05:00
-https://www.oles.tv/videos/91fm/__archive/20260103050000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 03/01/2026 | 04:00
-https://www.oles.tv/videos/91fm/__archive/20260103040000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 03/01/2026 | 03:00
-https://www.oles.tv/videos/91fm/__archive/20260103030000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 03/01/2026 | 02:00
-https://www.oles.tv/videos/91fm/__archive/20260103020000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 03/01/2026 | 01:00
-https://www.oles.tv/videos/91fm/__archive/20260103010000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 03/01/2026 | 00:00
-https://www.oles.tv/videos/91fm/__archive/20260103000000.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡02/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_201.jpg" group-title="רדיו 103 Items",רדיו 103 Items - ד"ר מאיה רוזמן | דילוג על ארוחת בוקר פוגע בבריאות וגורם להשמנה? | _כדאי להקשיב לגוף__ שיתפה_ _אם רעבים בבוקר – לאכול ארוחה טובה. אם לא רעבים – אין צורך לדחוף אוכל רק כי צריך_ • פינת המיתוסים | ⚡02/01/2026⚡
@@ -2110,8 +1974,6 @@ https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.m
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788651100000&stopTime=788657400000
 #EXTINF:-1 tvg-id="784446" tvg-name="מחלקה ראשונה" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590945000_TV10_machlaka_rishona.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - מחלקה ראשונה | 28/12/2025 | 22:30
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788646600000&stopTime=788649300000
-#EXTINF:-1 tvg-id="784476" tvg-name="הדבר הבא" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590948000_TV10_hadavar_haba.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - הדבר הבא | 28/12/2025 | 20:30
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788639400000&stopTime=788644800000
 #EXTINF:-1 tvg-id="784445" tvg-name="המהדורה המרכזית" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590945000_TV10_mahadura.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - המהדורה המרכזית | 28/12/2025 | 20:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788637600000&stopTime=788639400000
 #EXTINF:-1 tvg-id="784474" tvg-name="מחלקה ראשונה" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590945000_TV10_machlaka_rishona.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - מחלקה ראשונה | 28/12/2025 | 19:00
@@ -2130,8 +1992,6 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788580900000&stopTime=788587200000
 #EXTINF:-1 tvg-id="781932" tvg-name="סוגרים שבוע" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1766059743000_TV10_sogrim_shavua.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - סוגרים שבוע | 28/12/2025 | 01:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788569200000&stopTime=788575500000
-#EXTINF:-1 tvg-id="781920" tvg-name="דין וחשבון" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1746303632000_TV10_DINMULI.jpg?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - דין וחשבון | 28/12/2025 | 00:00
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788565600000&stopTime=788569200000
 #EXTINF:-1 group-title="Date", ⚡⚡17/02/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/FullShowImg_684716_55_14_.jpg" group-title="רדיו 103 Items",רדיו 103 Items - חמש בערב | אריה אלדד וליאת רוןהתוכנית המלאה 17/02/25 | אין תיאור | ⚡17/02/2029⚡
@@ -2140,12 +2000,6 @@ https://awaod01.streamgates.net/103fm_aw/feb1702299.mp3
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="40" tvg-name="איריס-קול | התוכנית המלאה 06/01/25" tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_9.jpg" group-title="רדיו 103",רדיו 103 - איריס-קול | התוכנית המלאה 06/01/25 | 06/01/2026 | 00:00
 https://103files.streamgates.net/103files/kol0601266.mp3
-#EXTINF:-1 group-title="Date", ⚡⚡04/01/2025⚡⚡
-https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="247174" tvg-name="מאיה אלקולומברה" tvg-logo="https://glz.co.il/media/67866/מאיה-מלבני.png" group-title="גלגלצ",גלגלצ - מאיה אלקולומברה | מאיה אלקולומברה עושה לי את הצהריים 04/01/25 | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/ca1a1243-ceb3-43dd-a32b-b3c100fcdfff/ddedce87-1b5c-4853-8f8d-b3c801022ebf/audio.mp3
-#EXTINF:-1 tvg-id="247191" tvg-name="רואי שריקי" tvg-logo="https://glz.co.il/media/55335/שריקי-ריק.png" group-title="גלגלצ",גלגלצ - רואי שריקי | רואי שריקי 04/01/25 | 04/01/2026
-https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/d44a128c-55c9-4399-85b5-add9012c7182/9893e3cb-af05-4f30-8154-b3c80142e2f5/audio.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡01/07/2018⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNewTop_283.jpg" group-title="רדיו 103 Items",רדיו 103 Items - ינון מגל | ינון מגלהתוכנית המלאה 01/07/18 | אין תיאור | ⚡20/10/2071⚡
