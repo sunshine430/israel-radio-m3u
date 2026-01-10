@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 10:32 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 12:32 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -18,6 +18,10 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-09/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-10/PD
 #EXTINF:-1 tvg-id="247459" tvg-name="צלילי שבת" tvg-logo="https://glz.co.il/media/50723/באנר-אתר.png" group-title="גלי צהל",גלי צהל - צלילי שבת | צלילי שבת | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-05/PD
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 10/01/2026 | 12:00
+https://www.oles.tv/videos/91fm/__archive/20260110120000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 10/01/2026 | 11:00
+https://www.oles.tv/videos/91fm/__archive/20260110110000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 10/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260110100000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 10/01/2026 | 09:00
