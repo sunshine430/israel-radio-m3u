@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 12:32 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 13:26 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -18,31 +18,33 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-09/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-10/PD
 #EXTINF:-1 tvg-id="247459" tvg-name="צלילי שבת" tvg-logo="https://glz.co.il/media/50723/באנר-אתר.png" group-title="גלי צהל",גלי צהל - צלילי שבת | צלילי שבת | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-05/PD
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 10/01/2026 | 12:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 5" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 5 | 10/01/2026 | 13:00
+https://www.oles.tv/videos/91fm/__archive/20260110130000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 10/01/2026 | 12:00
 https://www.oles.tv/videos/91fm/__archive/20260110120000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 10/01/2026 | 11:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 10/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260110110000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 10/01/2026 | 10:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 10/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260110100000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 10/01/2026 | 09:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 10/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260110090000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 2 | 10/01/2026 | 08:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc11ffeb604b53d718e60-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 2 | 10/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260110080000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 1 | 10/01/2026 | 07:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc11ffeb604b53d718e60-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 1 | 10/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260110070000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | 10/01/2026 | 06:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | 10/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260110060000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 10/01/2026 | 05:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 10/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260110050000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 10/01/2026 | 04:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 10/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260110040000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 10/01/2026 | 03:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 10/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260110030000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 10/01/2026 | 02:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 10/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260110020000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 10/01/2026 | 01:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 10/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260110010000.mp3
-#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 10/01/2026 | 00:00
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 10/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260110000000.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡09/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -128,53 +130,53 @@ https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/gilad9.1.mp3
 https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/vered.mp3
 #EXTINF:-1 tvg-id="09/01/2026" tvg-name="ראיון עם אורלי רון" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/אורלי-רון.jpg" group-title="רדיו 100fm",100FM - חותמים שבוע | ראיון עם אורלי רון | 09/01/2026
 https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/orly9.1.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 09/01/2026 | 23:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 09/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260109230000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 09/01/2026 | 22:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 09/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260109220000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 09/01/2026 | 21:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 09/01/2026 | 21:00
 https://www.oles.tv/videos/91fm/__archive/20260109210000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 09/01/2026 | 20:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 09/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260109200000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי לפני שבת | עם דוד בן בסט | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי לפני שבת | עם דוד בן בסט | שעה 2 | 09/01/2026 | 19:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי לפני שבת | עם דוד בן בסט | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי לפני שבת | עם דוד בן בסט | שעה 2 | 09/01/2026 | 19:00
 https://www.oles.tv/videos/91fm/__archive/20260109190000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי לפני שבת | עם דוד בן בסט | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי לפני שבת | עם דוד בן בסט | שעה 1 | 09/01/2026 | 18:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי לפני שבת | עם דוד בן בסט | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי לפני שבת | עם דוד בן בסט | שעה 1 | 09/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260109180000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת קלאסית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת קלאסית | שעה 2 | 09/01/2026 | 17:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת קלאסית | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - שבת קלאסית | שעה 2 | 09/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260109170000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת קלאסית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת קלאסית | שעה 1 | 09/01/2026 | 16:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="שבת קלאסית | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - שבת קלאסית | שעה 1 | 09/01/2026 | 16:00
 https://www.oles.tv/videos/91fm/__archive/20260109160000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="היכל התהילה | עם בני דקל | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - היכל התהילה | עם בני דקל | שעה 2 | 09/01/2026 | 15:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="היכל התהילה | עם בני דקל | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc3c2feb604c24a718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - היכל התהילה | עם בני דקל | שעה 2 | 09/01/2026 | 15:00
 https://www.oles.tv/videos/91fm/__archive/20260109150000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="היכל התהילה | עם בני דקל | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - היכל התהילה | עם בני דקל | שעה 1 | 09/01/2026 | 14:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="היכל התהילה | עם בני דקל | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc3c2feb604c24a718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - היכל התהילה | עם בני דקל | שעה 1 | 09/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260109140000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="קבלת שבת | עם מיכאל שרבט | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - קבלת שבת | עם מיכאל שרבט | שעה 2 | 09/01/2026 | 13:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="קבלת שבת | עם מיכאל שרבט | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc3c2feb604c24a718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - קבלת שבת | עם מיכאל שרבט | שעה 2 | 09/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260109130000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="קבלת שבת | עם מיכאל שרבט | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - קבלת שבת | עם מיכאל שרבט | שעה 1 | 09/01/2026 | 12:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="קבלת שבת | עם מיכאל שרבט | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc3c2feb604c24a718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - קבלת שבת | עם מיכאל שרבט | שעה 1 | 09/01/2026 | 12:00
 https://www.oles.tv/videos/91fm/__archive/20260109120000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="הנבחרים | עם דוד בן בסט | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - הנבחרים | עם דוד בן בסט | שעה 2 | 09/01/2026 | 11:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="הנבחרים | עם דוד בן בסט | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc349feb604c24a718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - הנבחרים | עם דוד בן בסט | שעה 2 | 09/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260109110000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="הנבחרים | עם דוד בן בסט | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - הנבחרים | עם דוד בן בסט | שעה 1 | 09/01/2026 | 10:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="הנבחרים | עם דוד בן בסט | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc349feb604c24a718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - הנבחרים | עם דוד בן בסט | שעה 1 | 09/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260109100000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="ספר פתוח | עם הרב חיים פוקס מיכאל שרבט" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ספר פתוח | עם הרב חיים פוקס מיכאל שרבט | 09/01/2026 | 09:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="ספר פתוח | עם הרב חיים פוקס מיכאל שרבט" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbb3dfeb6040f43718e63.jpg" group-title="רדיו לב המדינה 91fm",91FM - ספר פתוח | עם הרב חיים פוקס מיכאל שרבט | 09/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260109090000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | עם עופר וינשטיין | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | עם עופר וינשטיין | שעה 3 | 09/01/2026 | 08:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | עם עופר וינשטיין | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | עם עופר וינשטיין | שעה 3 | 09/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260109080000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | עם עופר וינשטיין | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | עם עופר וינשטיין | שעה 2 | 09/01/2026 | 07:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | עם עופר וינשטיין | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | עם עופר וינשטיין | שעה 2 | 09/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260109070000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | עם עופר וינשטיין | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | עם עופר וינשטיין | שעה 1 | 09/01/2026 | 06:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | עם עופר וינשטיין | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | עם עופר וינשטיין | שעה 1 | 09/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260109060000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2 | 09/01/2026 | 05:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2 | 09/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260109050000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1 | 09/01/2026 | 04:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1 | 09/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260109040000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 4 | 09/01/2026 | 03:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 4 | 09/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260109030000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 3 | 09/01/2026 | 02:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 3 | 09/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260109020000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 2 | 09/01/2026 | 01:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 2 | 09/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260109010000.mp3
-#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 1 | 09/01/2026 | 00:00
+#EXTINF:-1 tvg-id="09/01/2026" tvg-name="עברי מהלב | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" group-title="רדיו לב המדינה 91fm",91FM - עברי מהלב | שעה 1 | 09/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260109000000.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡08/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -298,53 +300,53 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789548400000&stopTime=789559200000
 #EXTINF:-1 tvg-id="787130" tvg-name="בוקר כלכלי" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590946000_TV10_boker_calcali.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בוקר כלכלי | 08/01/2026 | 07:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789541200000&stopTime=789548400000
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה לא שקט | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה לא שקט | שעה 2 | 08/01/2026 | 23:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה לא שקט | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה לא שקט | שעה 2 | 08/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260108230000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה לא שקט | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה לא שקט | שעה 1 | 08/01/2026 | 22:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה לא שקט | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה לא שקט | שעה 1 | 08/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260108220000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 08/01/2026 | 21:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 08/01/2026 | 21:00
 https://www.oles.tv/videos/91fm/__archive/20260108210000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 08/01/2026 | 20:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 08/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260108200000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 08/01/2026 | 19:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 08/01/2026 | 19:00
 https://www.oles.tv/videos/91fm/__archive/20260108190000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 08/01/2026 | 18:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 08/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260108180000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 08/01/2026 | 17:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 08/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260108170000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 08/01/2026 | 16:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 08/01/2026 | 16:00
 https://www.oles.tv/videos/91fm/__archive/20260108160000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 08/01/2026 | 15:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 08/01/2026 | 15:00
 https://www.oles.tv/videos/91fm/__archive/20260108150000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 08/01/2026 | 14:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 08/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260108140000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 2 | 08/01/2026 | 13:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033559859_23162ba247.jpg" group-title="רדיו לב המדינה 91fm",91FM - אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 2 | 08/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260108130000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 1 | 08/01/2026 | 12:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55033559859_23162ba247.jpg" group-title="רדיו לב המדינה 91fm",91FM - אופיר וחריש בחמישי | אופיר לוי וליאור חריש | שעה 1 | 08/01/2026 | 12:00
 https://www.oles.tv/videos/91fm/__archive/20260108120000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ששון ושמחון | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ששון ושמחון | שעה 2 | 08/01/2026 | 11:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ששון ושמחון | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033560934_c1dd562109_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - ששון ושמחון | שעה 2 | 08/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260108110000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ששון ושמחון | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ששון ושמחון | שעה 1 | 08/01/2026 | 10:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ששון ושמחון | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55033560934_c1dd562109_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - ששון ושמחון | שעה 1 | 08/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260108100000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="על הבוקר | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - על הבוקר | שעה 2 | 08/01/2026 | 09:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="על הבוקר | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55032399702_879bf22579_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - על הבוקר | שעה 2 | 08/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260108090000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="על הבוקר | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - על הבוקר | שעה 1 | 08/01/2026 | 08:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="על הבוקר | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55032399702_879bf22579_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - על הבוקר | שעה 1 | 08/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260108080000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 08/01/2026 | 07:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4f6feb6042849718e63.jpg" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 08/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260108070000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 08/01/2026 | 06:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fd6d3bfeb604464c718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 08/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260108060000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2 | 08/01/2026 | 05:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 2 | 08/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260108050000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1 | 08/01/2026 | 04:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני – אליקו (ש.ח) | עם אליקו | שעה 1 | 08/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260108040000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 4 | 08/01/2026 | 03:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 4 | 08/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260108030000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 3 | 08/01/2026 | 02:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 3 | 08/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260108020000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 08/01/2026 | 01:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 08/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260108010000.mp3
-#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 08/01/2026 | 00:00
+#EXTINF:-1 tvg-id="08/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 08/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260108000000.mp3
 #EXTINF:-1 tvg-id="17182" tvg-name="המצעד  של 99 והפשוטע  8.1.26" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/charts_hapshuta3_copy_17.jpeg" group-title="רדיו eco 99fm",99FM - סטודיו 99 | המצעד  של 99 והפשוטע  8.1.26 | 08/01/2026
 https://99sets.livecdn.biz/99sets/eco99_charts_hapshuta/eco99_charts_hapshuta_080126.mp3
@@ -500,53 +502,53 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789462000000&stopTime=789472800000
 #EXTINF:-1 tvg-id="787100" tvg-name="בוקר כלכלי" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590946000_TV10_boker_calcali.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בוקר כלכלי | 07/01/2026 | 07:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789454800000&stopTime=789462000000
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 07/01/2026 | 23:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 07/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260107230000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 07/01/2026 | 22:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 07/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260107220000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 07/01/2026 | 21:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 07/01/2026 | 21:00
 https://www.oles.tv/videos/91fm/__archive/20260107210000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 07/01/2026 | 20:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 07/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260107200000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 07/01/2026 | 19:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 07/01/2026 | 19:00
 https://www.oles.tv/videos/91fm/__archive/20260107190000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 07/01/2026 | 18:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 07/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260107180000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 07/01/2026 | 17:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 07/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260107170000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 07/01/2026 | 16:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 07/01/2026 | 16:00
 https://www.oles.tv/videos/91fm/__archive/20260107160000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 07/01/2026 | 15:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 07/01/2026 | 15:00
 https://www.oles.tv/videos/91fm/__archive/20260107150000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 07/01/2026 | 14:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 07/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260107140000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 07/01/2026 | 13:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033635890_392dc68cc7_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 07/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260107130000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1 | 07/01/2026 | 12:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55033635890_392dc68cc7_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1 | 07/01/2026 | 12:00
 https://www.oles.tv/videos/91fm/__archive/20260107120000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 07/01/2026 | 11:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 07/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260107110000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 07/01/2026 | 10:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 07/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260107100000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 07/01/2026 | 09:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbacffeb6042e49718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 07/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260107090000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1 | 07/01/2026 | 08:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbacffeb6042e49718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1 | 07/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260107080000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 07/01/2026 | 07:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4f6feb6042849718e63.jpg" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 07/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260107070000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 07/01/2026 | 06:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fd6d3bfeb604464c718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 07/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260107060000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 07/01/2026 | 05:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 07/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260107050000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 07/01/2026 | 04:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 07/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260107040000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 07/01/2026 | 03:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 07/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260107030000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 07/01/2026 | 02:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 07/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260107020000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 07/01/2026 | 01:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 07/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260107010000.mp3
-#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 07/01/2026 | 00:00
+#EXTINF:-1 tvg-id="07/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 07/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260107000000.mp3
 #EXTINF:-1 tvg-id="17180" tvg-name="יורודאנס 90" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/eco99_set_2026_10_nineties_dance.jpg" group-title="רדיו eco 99fm",99FM - עשורים | יורודאנס 90 | 07/01/2026
 https://99sets.livecdn.biz/99sets/eco99_set_2026/eco99_set_2026_10_nineties_dance.mp3
@@ -736,51 +738,51 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789368400000&stopTime=789375600000
 #EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבה פלוס  06/01/26" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/002.jpg" group-title="רדיו 100fm",100FM - אהבה פלוס | אהבה פלוס  06/01/26 | 06/01/2026
 https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/ahava6.1.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 06/01/2026 | 23:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 06/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260106230000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 06/01/2026 | 22:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 06/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260106220000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 06/01/2026 | 21:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 06/01/2026 | 21:00
 https://www.oles.tv/videos/91fm/__archive/20260106210000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 06/01/2026 | 20:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 06/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260106200000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 06/01/2026 | 19:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 06/01/2026 | 19:00
 https://www.oles.tv/videos/91fm/__archive/20260106190000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 06/01/2026 | 18:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 06/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260106180000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 06/01/2026 | 17:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 06/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260106170000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 06/01/2026 | 16:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 06/01/2026 | 16:00
 https://www.oles.tv/videos/91fm/__archive/20260106160000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 06/01/2026 | 15:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 06/01/2026 | 15:00
 https://www.oles.tv/videos/91fm/__archive/20260106150000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 06/01/2026 | 14:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 06/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260106140000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 06/01/2026 | 13:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033635890_392dc68cc7_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 06/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260106130000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 06/01/2026 | 11:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 06/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260106110000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 06/01/2026 | 10:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 06/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260106100000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 06/01/2026 | 09:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbacffeb6042e49718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 06/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260106090000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1 | 06/01/2026 | 08:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbacffeb6042e49718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1 | 06/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260106080000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 06/01/2026 | 07:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4f6feb6042849718e63.jpg" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 06/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260106070000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 06/01/2026 | 06:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fd6d3bfeb604464c718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 06/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260106060000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 06/01/2026 | 05:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 06/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260106050000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 06/01/2026 | 04:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 06/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260106040000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 06/01/2026 | 03:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 06/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260106030000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 06/01/2026 | 02:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 06/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260106020000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 06/01/2026 | 01:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 06/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260106010000.mp3
-#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 06/01/2026 | 00:00
+#EXTINF:-1 tvg-id="06/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 06/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260106000000.mp3
 #EXTINF:-1 tvg-id="17153" tvg-name="מועדון תרבות   6.1.26" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/eco99_yuval_ganor_sofi_09.png" group-title="רדיו eco 99fm",99FM - מועדון תרבות | מועדון תרבות   6.1.26 | 06/01/2026
 https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_060126.mp3
@@ -952,51 +954,51 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789263100000&stopTime=789265200000
 #EXTINF:-1 tvg-id="787068" tvg-name="אולפן כלכלה" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1756384991000_TV10_ULPANCACALA.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - אולפן כלכלה | 05/01/2026 | 00:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789256800000&stopTime=789263100000
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 05/01/2026 | 23:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 05/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260105230000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 05/01/2026 | 22:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 05/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260105220000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 05/01/2026 | 21:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 05/01/2026 | 21:00
 https://www.oles.tv/videos/91fm/__archive/20260105210000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 05/01/2026 | 20:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 05/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260105200000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 05/01/2026 | 19:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 05/01/2026 | 19:00
 https://www.oles.tv/videos/91fm/__archive/20260105190000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 05/01/2026 | 18:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 05/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260105180000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 05/01/2026 | 17:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 05/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260105170000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 05/01/2026 | 16:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 05/01/2026 | 16:00
 https://www.oles.tv/videos/91fm/__archive/20260105160000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 05/01/2026 | 15:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 05/01/2026 | 15:00
 https://www.oles.tv/videos/91fm/__archive/20260105150000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 05/01/2026 | 14:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 05/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260105140000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 05/01/2026 | 13:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033635890_392dc68cc7_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 05/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260105130000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1 | 05/01/2026 | 12:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55033635890_392dc68cc7_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1 | 05/01/2026 | 12:00
 https://www.oles.tv/videos/91fm/__archive/20260105120000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 05/01/2026 | 11:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 05/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260105110000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 05/01/2026 | 10:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 05/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260105100000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 05/01/2026 | 09:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbacffeb6042e49718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 05/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260105090000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 05/01/2026 | 07:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4f6feb6042849718e63.jpg" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 05/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260105070000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 05/01/2026 | 06:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fd6d3bfeb604464c718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 05/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260105060000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 05/01/2026 | 05:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 05/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260105050000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 05/01/2026 | 04:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 05/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260105040000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 05/01/2026 | 03:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 05/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260105030000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 05/01/2026 | 02:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 05/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260105020000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 05/01/2026 | 01:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 05/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260105010000.mp3
-#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 05/01/2026 | 00:00
+#EXTINF:-1 tvg-id="05/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 05/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260105000000.mp3
 #EXTINF:-1 tvg-id="17136" tvg-name="משנה לשנה  2017  בעריכת בועז כהן" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/boaz_cohen_year_to_year_02.jpg" group-title="רדיו eco 99fm",99FM - בועז כהן | משנה לשנה  2017  בעריכת בועז כהן | 05/01/2026
 https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_year_hour_2017.mp3
@@ -1320,53 +1322,53 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789170400000&stopTime=789174000000
 #EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבה פלוס  04/01/26" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/002.jpg" group-title="רדיו 100fm",100FM - אהבה פלוס | אהבה פלוס  04/01/26 | 04/01/2026
 https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/LOVE-4.1.26.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 04/01/2026 | 23:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 2 | 04/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260104230000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 04/01/2026 | 22:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | שעה 1 | 04/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260104220000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 04/01/2026 | 21:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 2 | 04/01/2026 | 21:00
 https://www.oles.tv/videos/91fm/__archive/20260104210000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 04/01/2026 | 20:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="חם בשטח | עם אייל וולקוביץ | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - חם בשטח | עם אייל וולקוביץ | שעה 1 | 04/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260104200000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 04/01/2026 | 19:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 2 | 04/01/2026 | 19:00
 https://www.oles.tv/videos/91fm/__archive/20260104190000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 04/01/2026 | 18:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="תכנית הספורט – עם בובה של לילה | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" group-title="רדיו לב המדינה 91fm",91FM - תכנית הספורט – עם בובה של לילה | שעה 1 | 04/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260104180000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 04/01/2026 | 17:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 2 | 04/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260104170000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 04/01/2026 | 16:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="ערב ים תיכוני | עם אליקו | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc401feb604f448718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - ערב ים תיכוני | עם אליקו | שעה 1 | 04/01/2026 | 16:00
 https://www.oles.tv/videos/91fm/__archive/20260104160000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 04/01/2026 | 15:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 2 | 04/01/2026 | 15:00
 https://www.oles.tv/videos/91fm/__archive/20260104150000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 04/01/2026 | 14:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבנו | ארי שמאי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבנו | ארי שמאי | שעה 1 | 04/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260104140000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 04/01/2026 | 13:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2" tvg-logo="https://live.staticflickr.com/65535/55033635890_392dc68cc7_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 2 | 04/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260104130000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1 | 04/01/2026 | 12:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1" tvg-logo="https://live.staticflickr.com/65535/55033635890_392dc68cc7_n.jpg" group-title="רדיו לב המדינה 91fm",91FM - איזו מדינה | עם עומרי לוי ואילן קובץ | שעה 1 | 04/01/2026 | 12:00
 https://www.oles.tv/videos/91fm/__archive/20260104120000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 04/01/2026 | 11:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 2 | 04/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260104110000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 04/01/2026 | 10:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אהבה לנצח | עם קרן מילוא | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc521feb604b04a718e60.jpg" group-title="רדיו לב המדינה 91fm",91FM - אהבה לנצח | עם קרן מילוא | שעה 1 | 04/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260104100000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 04/01/2026 | 09:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbacffeb6042e49718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 2 | 04/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260104090000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1 | 04/01/2026 | 08:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcbacffeb6042e49718e61.jpg" group-title="רדיו לב המדינה 91fm",91FM - מעירים את המדינה | עם עדי ששון ואסף אטדגי | שעה 1 | 04/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260104080000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 04/01/2026 | 07:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="נעים על הבוקר | עם חמי גדסי" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc4f6feb6042849718e63.jpg" group-title="רדיו לב המדינה 91fm",91FM - נעים על הבוקר | עם חמי גדסי | 04/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260104070000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 04/01/2026 | 06:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="אור ראשון | אור ראשון" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fd6d3bfeb604464c718e5f.jpg" group-title="רדיו לב המדינה 91fm",91FM - אור ראשון | אור ראשון | 04/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260104060000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 04/01/2026 | 05:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 04/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260104050000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 04/01/2026 | 04:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 04/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260104040000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 04/01/2026 | 03:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 04/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260104030000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 04/01/2026 | 02:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 04/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260104020000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 04/01/2026 | 01:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 04/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260104010000.mp3
-#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 04/01/2026 | 00:00
+#EXTINF:-1 tvg-id="04/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 04/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260104000000.mp3
 #EXTINF:-1 tvg-id="17154" tvg-name="מועדון תרבות   4.1.26" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/eco99_yuval_ganor_sofi_09.png" group-title="רדיו eco 99fm",99FM - מועדון תרבות | מועדון תרבות   4.1.26 | 04/01/2026
 https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_040126.mp3
@@ -1388,53 +1390,53 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789152400000&stopTime=789156000000
 #EXTINF:-1 tvg-id="784566" tvg-name="הדבר הבא" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590948000_TV10_hadavar_haba.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - הדבר הבא | 03/01/2026 | 18:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789148800000&stopTime=789152400000
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | 03/01/2026 | 23:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | 03/01/2026 | 23:00
 https://www.oles.tv/videos/91fm/__archive/20260103230000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 2 | 03/01/2026 | 22:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 2 | 03/01/2026 | 22:00
 https://www.oles.tv/videos/91fm/__archive/20260103220000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 1 | 03/01/2026 | 21:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שיחה אישית | עם איתן דנציג | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" group-title="רדיו לב המדינה 91fm",91FM - שיחה אישית | עם איתן דנציג | שעה 1 | 03/01/2026 | 21:00
 https://www.oles.tv/videos/91fm/__archive/20260103210000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 12" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 12 | 03/01/2026 | 20:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 12" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 12 | 03/01/2026 | 20:00
 https://www.oles.tv/videos/91fm/__archive/20260103200000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 11" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 11 | 03/01/2026 | 19:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 11" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 11 | 03/01/2026 | 19:00
 https://www.oles.tv/videos/91fm/__archive/20260103190000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 10" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 10 | 03/01/2026 | 18:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 10" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 10 | 03/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260103180000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 9" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 9 | 03/01/2026 | 17:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 9" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 9 | 03/01/2026 | 17:00
 https://www.oles.tv/videos/91fm/__archive/20260103170000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 8" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 8 | 03/01/2026 | 16:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 8" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 8 | 03/01/2026 | 16:00
 https://www.oles.tv/videos/91fm/__archive/20260103160000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 7" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 7 | 03/01/2026 | 15:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 7" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 7 | 03/01/2026 | 15:00
 https://www.oles.tv/videos/91fm/__archive/20260103150000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 6 | 03/01/2026 | 14:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 6" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 6 | 03/01/2026 | 14:00
 https://www.oles.tv/videos/91fm/__archive/20260103140000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 5 | 03/01/2026 | 13:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 5" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 5 | 03/01/2026 | 13:00
 https://www.oles.tv/videos/91fm/__archive/20260103130000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 03/01/2026 | 12:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 4" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 4 | 03/01/2026 | 12:00
 https://www.oles.tv/videos/91fm/__archive/20260103120000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 03/01/2026 | 11:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 3" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 3 | 03/01/2026 | 11:00
 https://www.oles.tv/videos/91fm/__archive/20260103110000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 03/01/2026 | 10:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 2" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 2 | 03/01/2026 | 10:00
 https://www.oles.tv/videos/91fm/__archive/20260103100000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 03/01/2026 | 09:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 1" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 1 | 03/01/2026 | 09:00
 https://www.oles.tv/videos/91fm/__archive/20260103090000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 2 | 03/01/2026 | 08:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc11ffeb604b53d718e60-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 2 | 03/01/2026 | 08:00
 https://www.oles.tv/videos/91fm/__archive/20260103080000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 1 | 03/01/2026 | 07:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="ילדודס | עם חמי גדסי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc11ffeb604b53d718e60-thumb.jpg" group-title="רדיו לב המדינה 91fm",91FM - ילדודס | עם חמי גדסי | שעה 1 | 03/01/2026 | 07:00
 https://www.oles.tv/videos/91fm/__archive/20260103070000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | 03/01/2026 | 06:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | עם עופר וינשטיין" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | עם עופר וינשטיין | 03/01/2026 | 06:00
 https://www.oles.tv/videos/91fm/__archive/20260103060000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 03/01/2026 | 05:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 6" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 6 | 03/01/2026 | 05:00
 https://www.oles.tv/videos/91fm/__archive/20260103050000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 03/01/2026 | 04:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 03/01/2026 | 04:00
 https://www.oles.tv/videos/91fm/__archive/20260103040000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 03/01/2026 | 03:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 03/01/2026 | 03:00
 https://www.oles.tv/videos/91fm/__archive/20260103030000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 03/01/2026 | 02:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 03/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260103020000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 03/01/2026 | 01:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 03/01/2026 | 01:00
 https://www.oles.tv/videos/91fm/__archive/20260103010000.mp3
-#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2018/05/logo91.png" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 03/01/2026 | 00:00
+#EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 03/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260103000000.mp3
 #EXTINF:-1 tvg-id="17151" tvg-name="ירמי קפלן בכסאות מוזיקליים" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/ido_porat2_copy_6.jpg" group-title="רדיו eco 99fm",99FM - כיסאות מוזיקליים | ירמי קפלן בכסאות מוזיקליים | 03/01/2026
 https://99sets.livecdn.biz/99sets/eco99_ido_porat/eco99_ido_porat_030126.mp3
