@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 18:32 | 10/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 20:32 | 10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡10/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -24,6 +24,16 @@ https://api.bynetcdn.com:443/Redirector/glz/260110-12/PD
 https://api.bynetcdn.com:443/Redirector/glz/260110-14/PD
 #EXTINF:-1 tvg-id="247468" tvg-name="גל עברי ירוק" tvg-logo="https://glz.co.il/media/50717/באנר-אתר.png" group-title="גלי צהל",גלי צהל - גל עברי ירוק | גל עברי ירוק | מש__קיות עברית | 10/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260110-16/PD
+#EXTINF:-1 tvg-id="247469" tvg-name="שישבת" tvg-logo="https://glz.co.il/media/60961/באנר-אתר-כללי.png" group-title="גלי צהל",גלי צהל - שישבת | שישבת | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-18/PD
+#EXTINF:-1 tvg-id="247473" tvg-name="תכניות מיוחדות" tvg-logo="https://glz.co.il/media/52543/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - תכניות מיוחדות | תוכנית מיוחדת ליום השפה העברית | 10/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260110-20/PD
+#EXTINF:-1 tvg-id="787189" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 10/01/2026 | 19:00
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789757200000&stopTime=789760800000
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 12" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 12 | 10/01/2026 | 20:00
+https://www.oles.tv/videos/91fm/__archive/20260110200000.mp3
+#EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 11" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 11 | 10/01/2026 | 19:00
+https://www.oles.tv/videos/91fm/__archive/20260110190000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 10" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 10 | 10/01/2026 | 18:00
 https://www.oles.tv/videos/91fm/__archive/20260110180000.mp3
 #EXTINF:-1 tvg-id="10/01/2026" tvg-name="שבת ישראלית – קלאסיקה ים תיכונית | שעה 9" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d2dfa2c61a16eb523f60d6fe" group-title="רדיו לב המדינה 91fm",91FM - שבת ישראלית – קלאסיקה ים תיכונית | שעה 9 | 10/01/2026 | 17:00
@@ -1448,8 +1458,6 @@ https://www.oles.tv/videos/91fm/__archive/20260103020000.mp3
 https://www.oles.tv/videos/91fm/__archive/20260103010000.mp3
 #EXTINF:-1 tvg-id="03/01/2026" tvg-name="לילה ישראלי | שעה 1" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 1 | 03/01/2026 | 00:00
 https://www.oles.tv/videos/91fm/__archive/20260103000000.mp3
-#EXTINF:-1 tvg-id="17151" tvg-name="ירמי קפלן בכסאות מוזיקליים" tvg-logo="https://eco99fm.maariv.co.il/download/Sets/pictures/ido_porat2_copy_6.jpg" group-title="רדיו eco 99fm",99FM - כיסאות מוזיקליים | ירמי קפלן בכסאות מוזיקליים | 03/01/2026
-https://99sets.livecdn.biz/99sets/eco99_ido_porat/eco99_ido_porat_030126.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡02/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/imgNew_201.jpg" group-title="רדיו 103 Items",רדיו 103 Items - ד"ר מאיה רוזמן | דילוג על ארוחת בוקר פוגע בבריאות וגורם להשמנה? | _כדאי להקשיב לגוף__ שיתפה_ _אם רעבים בבוקר – לאכול ארוחה טובה. אם לא רעבים – אין צורך לדחוף אוכל רק כי צריך_ • פינת המיתוסים | ⚡02/01/2026⚡
@@ -2112,12 +2120,6 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788569200000&stopTime=788575500000
 #EXTINF:-1 tvg-id="781920" tvg-name="דין וחשבון" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1746303632000_TV10_DINMULI.jpg?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - דין וחשבון | 28/12/2025 | 00:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788565600000&stopTime=788569200000
-#EXTINF:-1 group-title="Date", ⚡⚡27/12/2025⚡⚡
-https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="781898" tvg-name="ערך הכסף" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/upload/programme/929579/images/2706306_1766129283174?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=80&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - ערך הכסף | 27/12/2025 | 20:00
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788551200000&stopTime=788556600000
-#EXTINF:-1 tvg-id="781918" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 27/12/2025 | 19:00
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=788547600000&stopTime=788551200000
 #EXTINF:-1 group-title="Date", ⚡⚡17/02/2025⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/download/programs/FullShowImg_684716_55_14_.jpg" group-title="רדיו 103 Items",רדיו 103 Items - חמש בערב | אריה אלדד וליאת רוןהתוכנית המלאה 17/02/25 | אין תיאור | ⚡17/02/2029⚡
