@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 03:45 | 12/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 04:00 | 12/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡12/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -1338,275 +1338,275 @@ https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.m
 https://103files.streamgates.net/103files/kol0601266.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡No Date⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
-#EXTINF:-1 tvg-id="1" tvg-name="רדיו ישראלי - רדיו גלי ישראל" tvg-logo="https://radio.coolsite.co.il/images/small/29.jpg" group-title="רדיו", רדיו - רדיו גלי ישראל
+#EXTINF:-1 tvg-id="1" tvg-name="רדיו גלי ישראל" tvg-logo="https://radio.coolsite.co.il/images/small/29.jpg" group-title="רדיו ישראלי",רדיו - גלי ישראל
 https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
-#EXTINF:-1 tvg-id="2" tvg-name="רדיו ישראלי - רדיו 103" tvg-logo="https://radio.coolsite.co.il/images/small/9.jpg" group-title="רדיו", רדיו - רדיו 103
+#EXTINF:-1 tvg-id="2" tvg-name="רדיו 103" tvg-logo="https://radio.coolsite.co.il/images/small/9.jpg" group-title="רדיו ישראלי",רדיו - 103
 https://cdn.cybercdn.live/103FM/Live/icecast.audio
-#EXTINF:-1 tvg-id="8" tvg-name="רדיו ישראלי - רדיו דרום 101.5" tvg-logo="https://radio.coolsite.co.il/images/small/47.jpg" group-title="רדיו", רדיו - רדיו דרום 101.5
+#EXTINF:-1 tvg-id="8" tvg-name="רדיו דרום 101.5" tvg-logo="https://radio.coolsite.co.il/images/small/47.jpg" group-title="רדיו ישראלי",רדיו - דרום 101.5
 https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio
-#EXTINF:-1 tvg-id="9" tvg-name="רדיו ישראלי - רדיו דרום" tvg-logo="https://radio.coolsite.co.il/images/small/14.jpg" group-title="רדיו", רדיו - רדיו דרום
+#EXTINF:-1 tvg-id="9" tvg-name="רדיו דרום" tvg-logo="https://radio.coolsite.co.il/images/small/14.jpg" group-title="רדיו ישראלי",רדיו - דרום
 https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
-#EXTINF:-1 tvg-id="3" tvg-name="רדיו ישראלי - רדיו תל אביב 102FM" tvg-logo="https://radio.coolsite.co.il/images/small/4.jpg" group-title="רדיו", רדיו - רדיו תל אביב 102FM
-https://102.livecdn.biz/102fm_mp3
-#EXTINF:-1 tvg-id="4" tvg-name="רדיו ישראלי - כאן גימל" tvg-logo="https://radio.coolsite.co.il/images/small/16.jpg" group-title="רדיו", רדיו - כאן גימל
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite
-#EXTINF:-1 tvg-id="5" tvg-name="רדיו ישראלי - כאן ב" tvg-logo="https://radio.coolsite.co.il/images/small/10.jpg" group-title="רדיו", רדיו - כאן ב
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite
-#EXTINF:-1 tvg-id="6" tvg-name="רדיו ישראלי - כאן 88" tvg-logo="https://radio.coolsite.co.il/images/small/1.jpg" group-title="רדיו", רדיו - כאן 88
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite
-#EXTINF:-1 tvg-id="7" tvg-name="רדיו ישראלי - רדיוס 100FM" tvg-logo="https://radio.coolsite.co.il/images/small/5.jpg" group-title="רדיו", רדיו - רדיוס 100FM
-https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
-#EXTINF:-1 tvg-id="10" tvg-name="רדיו ישראלי - ערוץ הכנסת" tvg-logo="https://radio.coolsite.co.il/images/small/36.jpg" group-title="רדיו", רדיו - ערוץ הכנסת
-https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="רדיו ישראלי - רדיו שירי אהבה" tvg-logo="https://radio.coolsite.co.il/images/small/12.jpg" group-title="רדיו", רדיו - רדיו שירי אהבה
-https://liveradio.co.il/radiolove
-#EXTINF:-1 tvg-id="12" tvg-name="רדיו ישראלי - רדיו קצב ים תיכוני" tvg-logo="https://radio.coolsite.co.il/images/small/61.jpg" group-title="רדיו", רדיו - רדיו קצב ים תיכוני
-https://liveradio.co.il:1040/;
-#EXTINF:-1 tvg-id="13" tvg-name="רדיו ישראלי - רדיו קליק לים התיכון" tvg-logo="https://radio.coolsite.co.il/images/small/17.jpg" group-title="רדיו", רדיו - רדיו קליק לים התיכון
-https://icecast.live/yamfm
-#EXTINF:-1 tvg-id="14" tvg-name="רדיו ישראלי - רדיו קול הים האדום" tvg-logo="https://radio.coolsite.co.il/images/small/27.jpg" group-title="רדיו", רדיו - רדיו קול הים האדום
-https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio
-#EXTINF:-1 tvg-id="15" tvg-name="רדיו ישראלי - רדיו מזרחית" tvg-logo="https://radio.coolsite.co.il/images/small/51.jpg" group-title="רדיו", רדיו - רדיו מזרחית
-https://mzr.mediacast.co.il/mzradio
-#EXTINF:-1 tvg-id="16" tvg-name="רדיו ישראלי - רדיו המזרח" tvg-logo="https://radio.coolsite.co.il/images/small/57.jpg" group-title="רדיו", רדיו - רדיו המזרח
-https://liveradio.co.il:9089/;
-#EXTINF:-1 tvg-id="79" tvg-name="רדיו ישראלי - BeatFM" tvg-logo="https://radio.coolsite.co.il/images/small/67.jpg" group-title="רדיו", רדיו - BeatFM
-https://securestreams2.autopo.st:1242/live
-#EXTINF:-1 tvg-id="80" tvg-name="רדיו ישראלי - Classic FM" tvg-logo="https://radio.coolsite.co.il/images/small/18.jpg" group-title="רדיו", רדיו - Classic FM
-https://media-ssl.musicradio.com/ClassicFM
-#EXTINF:-1 tvg-id="81" tvg-name="רדיו ישראלי - Jazz FM" tvg-logo="https://radio.coolsite.co.il/images/small/63.jpg" group-title="רדיו", רדיו - Jazz FM
-https://jazzfm91.streamb.live/SB00009
-#EXTINF:-1 tvg-id="82" tvg-name="רדיו ישראלי - MUZIKA 106.4FM" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="רדיו", רדיו - MUZIKA 106.4FM
-https://cdna.streamgates.net/TheBest/live/icecast.audio
-#EXTINF:-1 tvg-id="83" tvg-name="רדיו ישראלי - Radio Salsa Tel Aviv" tvg-logo="https://radio.coolsite.co.il/images/small/76.jpg" group-title="רדיו", רדיו - Radio Salsa Tel Aviv
-https://liveradio.co.il/salsa
-#EXTINF:-1 tvg-id="84" tvg-name="רדיו ישראלי - Up2Dance Radio" tvg-logo="https://radio.coolsite.co.il/images/small/69.jpg" group-title="רדיו", רדיו - Up2Dance Radio
-https://icecast.live/proxy/up2dance/up2dance
-#EXTINF:-1 tvg-id="85" tvg-name="רדיו ישראלי - Первое радио 89.1FM" tvg-logo="https://radio.coolsite.co.il/images/small/45.jpg" group-title="רדיו", רדיו - Первое радио 89.1FM
-https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="רדיו ישראלי - הרדיו הבינתחומי" tvg-logo="https://radio.coolsite.co.il/images/small/46.jpg" group-title="רדיו", רדיו - הרדיו הבינתחומי
-https://1062onair.idc.ac.il/idc123.mp3
-#EXTINF:-1 tvg-id="87" tvg-name="רדיו ישראלי - כאן מורשת" tvg-logo="https://radio.coolsite.co.il/images/small/20.jpg" group-title="רדיו", רדיו - כאן מורשת
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite
-#EXTINF:-1 tvg-id="88" tvg-name="רדיו ישראלי - כאן קול המוסיקה" tvg-logo="https://radio.coolsite.co.il/images/small/26.jpg" group-title="רדיו", רדיו - כאן קול המוסיקה
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite
-#EXTINF:-1 tvg-id="89" tvg-name="רדיו ישראלי - כאן רקע" tvg-logo="https://radio.coolsite.co.il/images/small/74.jpg" group-title="רדיו", רדיו - כאן רקע
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite
-#EXTINF:-1 tvg-id="90" tvg-name="רדיו ישראלי - כאן תרבות" tvg-logo="https://radio.coolsite.co.il/images/small/28.jpg" group-title="רדיו", רדיו - כאן תרבות
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite
-#EXTINF:-1 tvg-id="91" tvg-name="רדיו ישראלי - עברי שש" tvg-logo="https://radio.coolsite.co.il/images/small/68.jpg" group-title="רדיו", רדיו - עברי שש
-https://streaming.radio.co/sa06221901/listen
-#EXTINF:-1 tvg-id="92" tvg-name="רדיו ישראלי - קול הקמפוס 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/19.jpg" group-title="רדיו", רדיו - קול הקמפוס 106FM
-http://106fm.livecdn.biz:7075/;stream.mp3
-#EXTINF:-1 tvg-id="93" tvg-name="רדיו ישראלי - קול רמת השרון" tvg-logo="https://radio.coolsite.co.il/images/small/43.jpg" group-title="רדיו", רדיו - קול רמת השרון
-https://radio.streamgates.net/stream/1036
-#EXTINF:-1 tvg-id="94" tvg-name="רדיו ישראלי - רדיו 69FM" tvg-logo="https://radio.coolsite.co.il/images/small/70.jpg" group-title="רדיו", רדיו - רדיו 69FM
-https://live.ecast.co.il/stream/69fm
-#EXTINF:-1 tvg-id="95" tvg-name="רדיו ישראלי - רדיו 99FM" tvg-logo="https://radio.coolsite.co.il/images/small/7.jpg" group-title="רדיו", רדיו - רדיו 99FM
-https://eco-live.mediacast.co.il/99fm_aac
-#EXTINF:-1 tvg-id="96" tvg-name="רדיו ישראלי - רדיו א-שמס - الشمس" tvg-logo="https://radio.coolsite.co.il/images/small/22.jpg" group-title="רדיו", רדיו - רדיו א-שמס - الشمس
-https://cdna.streamgates.net/Ashams/Live/icecast.audio
-#EXTINF:-1 tvg-id="97" tvg-name="רדיו ישראלי - רדיו אורנים" tvg-logo="https://radio.coolsite.co.il/images/small/58.jpg" group-title="רדיו", רדיו - רדיו אורנים
-https://radio.streamgates.net/stream/oranim
-#EXTINF:-1 tvg-id="98" tvg-name="רדיו ישראלי - רדיו אלכרמל (راديو الكرمل)" tvg-logo="https://radio.coolsite.co.il/images/small/44.jpg" group-title="רדיו", רדיו - רדיו אלכרמל (راديو الكرمل)
-https://liveradio.co.il:1060/waelhalabi/1/web
-#EXTINF:-1 tvg-id="99" tvg-name="רדיו ישראלי - רדיו ביט" tvg-logo="https://radio.coolsite.co.il/images/small/49.jpg" group-title="רדיו", רדיו - רדיו ביט
-http://www.radio-beat.com/server1
-#EXTINF:-1 tvg-id="100" tvg-name="רדיו ישראלי - רדיו ברסלב - קול הנחל" tvg-logo="https://radio.coolsite.co.il/images/small/54.jpg" group-title="רדיו", רדיו - רדיו ברסלב - קול הנחל
-https://cast.ereznet.co.il/radio/8070/radio.mp3
-#EXTINF:-1 tvg-id="101" tvg-name="רדיו ישראלי - רדיו גלי אשקלונט" tvg-logo="https://radio.coolsite.co.il/images/small/65.jpg" group-title="רדיו", רדיו - רדיו גלי אשקלונט
-https://s4.radio.co/s6765540c3/listen
-#EXTINF:-1 tvg-id="102" tvg-name="רדיו ישראלי - רדיו הקצה" tvg-logo="https://radio.coolsite.co.il/images/small/59.jpg" group-title="רדיו", רדיו - רדיו הקצה
-https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
-#EXTINF:-1 tvg-id="103" tvg-name="רדיו ישראלי - רדיו התחנה 101.5" tvg-logo="https://radio.coolsite.co.il/images/small/15.jpg" group-title="רדיו", רדיו - רדיו התחנה 101.5
-https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio
-#EXTINF:-1 tvg-id="104" tvg-name="רדיו ישראלי - רדיו זה רוק" tvg-logo="https://radio.coolsite.co.il/images/small/75.jpg" group-title="רדיו", רדיו - רדיו זה רוק
-https://icecast.live/proxy/zerock/zerock
-#EXTINF:-1 tvg-id="105" tvg-name="רדיו ישראלי - רדיו חדש על הגל" tvg-logo="https://radio.coolsite.co.il/images/small/77.jpg" group-title="רדיו", רדיו - רדיו חדש על הגל
-https://liveradio.co.il:8020/;
-#EXTINF:-1 tvg-id="106" tvg-name="רדיו ישראלי - רדיו חולמים מזרחית" tvg-logo="https://radio.coolsite.co.il/images/small/33.jpg" group-title="רדיו", רדיו - רדיו חולמים מזרחית
-http://liveradio.co.il:8070/;
-#EXTINF:-1 tvg-id="107" tvg-name="רדיו ישראלי - רדיו חוף אילת" tvg-logo="https://radio.coolsite.co.il/images/small/38.jpg" group-title="רדיו", רדיו - רדיו חוף אילת
-https://ec1.yesstreaming.net:3815/stream?ver=258837
-#EXTINF:-1 tvg-id="108" tvg-name="רדיו ישראלי - רדיו חיפה" tvg-logo="https://radio.coolsite.co.il/images/small/11.jpg" group-title="רדיו", רדיו - רדיו חיפה
-https://1075.livecdn.biz/radiohaifa
-#EXTINF:-1 tvg-id="109" tvg-name="רדיו ישראלי - רדיו חם אש" tvg-logo="https://radio.coolsite.co.il/images/small/50.jpg" group-title="רדיו", רדיו - רדיו חם אש
-https://995.livecdn.biz/995fm
-#EXTINF:-1 tvg-id="110" tvg-name="רדיו ישראלי - רדיו חמש ישראל" tvg-logo="https://radio.coolsite.co.il/images/small/79.jpg" group-title="רדיו", רדיו - רדיו חמש ישראל
-https://radio5.ecast.co.il/stream/live
-#EXTINF:-1 tvg-id="111" tvg-name="רדיו ישראלי - רדיו יאסו" tvg-logo="https://radio.coolsite.co.il/images/small/40.jpg" group-title="רדיו", רדיו - רדיו יאסו
-http://radio-yasoo.ath.cx:7500/;
-#EXTINF:-1 tvg-id="112" tvg-name="רדיו ישראלי - רדיו ירושלים" tvg-logo="https://radio.coolsite.co.il/images/small/25.jpg" group-title="רדיו", רדיו - רדיו ירושלים
-https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio
-#EXTINF:-1 tvg-id="113" tvg-name="רדיו ישראלי - רדיו כחול יוון" tvg-logo="https://radio.coolsite.co.il/images/small/55.jpg" group-title="רדיו", רדיו - רדיו כחול יוון
-https://icecast.live/proxy/livegreece/livegreece
-#EXTINF:-1 tvg-id="114" tvg-name="רדיו ישראלי - רדיו לב המדינה" tvg-logo="https://radio.coolsite.co.il/images/small/3.jpg" group-title="רדיו", רדיו - רדיו לב המדינה
-https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
-#EXTINF:-1 tvg-id="115" tvg-name="רדיו ישראלי - רדיו מהות החיים" tvg-logo="https://radio.coolsite.co.il/images/small/41.jpg" group-title="רדיו", רדיו - רדיו מהות החיים
-https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
-#EXTINF:-1 tvg-id="116" tvg-name="רדיו ישראלי - רדיו מרטיט מיתר בלב" tvg-logo="https://radio.coolsite.co.il/images/small/66.jpg" group-title="רדיו", רדיו - רדיו מרטיט מיתר בלב
-https://liveradio.co.il/wet
-#EXTINF:-1 tvg-id="117" tvg-name="רדיו ישראלי - רדיו נטו" tvg-logo="https://radio.coolsite.co.il/images/small/37.jpg" group-title="רדיו", רדיו - רדיו נטו
-https://live.ecast.co.il/stream/radioneto1
-#EXTINF:-1 tvg-id="118" tvg-name="רדיו ישראלי - רדיו סהר" tvg-logo="https://radio.coolsite.co.il/images/small/34.jpg" group-title="רדיו", רדיו - רדיו סהר
-https://live.ecast.co.il/stream/sahar
-#EXTINF:-1 tvg-id="119" tvg-name="רדיו ישראלי - רדיו סול" tvg-logo="https://radio.coolsite.co.il/images/small/39.jpg" group-title="רדיו", רדיו - רדיו סול
-https://radio.streamgates.net/stream/sol
-#EXTINF:-1 tvg-id="120" tvg-name="רדיו ישראלי - רדיו צפון 104.5" tvg-logo="https://radio.coolsite.co.il/images/small/62.jpg" group-title="רדיו", רדיו - רדיו צפון 104.5
-https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio
-#EXTINF:-1 tvg-id="121" tvg-name="רדיו ישראלי - רדיו קבלה FM" tvg-logo="https://radio.coolsite.co.il/images/small/42.jpg" group-title="רדיו", רדיו - רדיו קבלה FM
-http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3
-#EXTINF:-1 tvg-id="122" tvg-name="רדיו ישראלי - רדיו קול אחר 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/52.jpg" group-title="רדיו", רדיו - רדיו קול אחר 106FM
-http://gb35.streamgates.net/ariel106fm/audio/icecast.audio
-#EXTINF:-1 tvg-id="123" tvg-name="רדיו ישראלי - רדיו קול ברמה" tvg-logo="https://radio.coolsite.co.il/images/small/31.jpg" group-title="רדיו", רדיו - רדיו קול ברמה
-https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio
-#EXTINF:-1 tvg-id="124" tvg-name="רדיו ישראלי - רדיו קול הגולן" tvg-logo="https://radio.coolsite.co.il/images/small/64.jpg" group-title="רדיו", רדיו - רדיו קול הגולן
-https://liveradio.co.il/kolhagolan
-#EXTINF:-1 tvg-id="125" tvg-name="רדיו ישראלי - רדיו קול הגליל העליון 105.3FM" tvg-logo="https://radio.coolsite.co.il/images/small/60.jpg" group-title="רדיו", רדיו - רדיו קול הגליל העליון 105.3FM
-https://radio.streamgates.net/stream/galil
-#EXTINF:-1 tvg-id="126" tvg-name="רדיו ישראלי - רדיו קול הכנרת" tvg-logo="https://radio.coolsite.co.il/images/small/32.jpg" group-title="רדיו", רדיו - רדיו קול הכנרת
-https://radio.streamgates.net/stream/kinneret
-#EXTINF:-1 tvg-id="127" tvg-name="רדיו ישראלי - רדיו קול המרכז" tvg-logo="https://radio.coolsite.co.il/images/small/53.jpg" group-title="רדיו", רדיו - רדיו קול המרכז
-https://liveradio.co.il:9070/;
-#EXTINF:-1 tvg-id="128" tvg-name="רדיו ישראלי - רדיו קול השפלה" tvg-logo="https://radio.coolsite.co.il/images/small/71.jpg" group-title="רדיו", רדיו - רדיו קול השפלה
-https://radio.streamgates.net/stream/1036kh
-#EXTINF:-1 tvg-id="129" tvg-name="רדיו ישראלי - רדיו קול חי" tvg-logo="https://radio.coolsite.co.il/images/small/21.jpg" group-title="רדיו", רדיו - רדיו קול חי
-https://media2.93fm.co.il/live-new
-#EXTINF:-1 tvg-id="130" tvg-name="רדיו ישראלי - רדיו קול יזרעאל 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/30.jpg" group-title="רדיו", רדיו - רדיו קול יזרעאל 106FM
-https://radio.streamgates.net/stream/yezreel
-#EXTINF:-1 tvg-id="131" tvg-name="רדיו ישראלי - רדיו קול נתניה 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/35.jpg" group-title="רדיו", רדיו - רדיו קול נתניה 106FM
-https://radio.streamgates.net/stream/netanya
-#EXTINF:-1 tvg-id="132" tvg-name="רדיו ישראלי - רדיו קול רגע" tvg-logo="https://radio.coolsite.co.il/images/small/23.jpg" group-title="רדיו", רדיו - רדיו קול רגע
-https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
-#EXTINF:-1 tvg-id="133" tvg-name="רדיו ישראלי - רדיו קצב מזרחית" tvg-logo="https://radio.coolsite.co.il/images/small/72.jpg" group-title="רדיו", רדיו - רדיו קצב מזרחית
-https://liveradio.co.il/radio_i
-#EXTINF:-1 tvg-id="134" tvg-name="רדיו ישראלי - רדיו רן (פרסית)" tvg-logo="https://radio.coolsite.co.il/images/small/56.jpg" group-title="רדיו", רדיו - רדיו רן (פרסית)
-http://185.80.220.12:8047/stream
-#EXTINF:-1 tvg-id="135" tvg-name="רדיו ישראלי - רדיו שירי דיכאון" tvg-logo="https://radio.coolsite.co.il/images/small/48.jpg" group-title="רדיו", רדיו - רדיו שירי דיכאון
-https://diki.mediacast.co.il/diki
-#EXTINF:-1 tvg-id="136" tvg-name="רדיו ישראלי - רדיו תשעים" tvg-logo="https://radio.coolsite.co.il/images/small/2.jpg" group-title="רדיו", רדיו - רדיו תשעים
-https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio
-#EXTINF:-1 tvg-id="100" tvg-name="ספורט 5 - רדיו" tvg-logo="https://www.sport5.co.il/Images/Rebrand/sport5og.png" group-title="רדיו", רדיו - ספורט 5 רדיו
+#EXTINF:-1 tvg-id="100" tvg-name="ספורט 5 - רדיו" tvg-logo="https://www.sport5.co.il/Images/Rebrand/sport5og.png" group-title="רדיו ישראלי", רדיו - ספורט 5
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="100% 2000s" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-2000s.png" group-title="רדיו", רדיו -  100% 2000s
+#EXTINF:-1 tvg-id="3" tvg-name="רדיו תל אביב 102FM" tvg-logo="https://radio.coolsite.co.il/images/small/4.jpg" group-title="רדיו ישראלי",רדיו - תל אביב 102FM
+https://102.livecdn.biz/102fm_mp3
+#EXTINF:-1 tvg-id="4" tvg-name="כאן גימל" tvg-logo="https://radio.coolsite.co.il/images/small/16.jpg" group-title="רדיו ישראלי", רדיו - כאן גימל
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite
+#EXTINF:-1 tvg-id="5" tvg-name="כאן ב" tvg-logo="https://radio.coolsite.co.il/images/small/10.jpg" group-title="רדיו ישראלי", רדיו - כאן ב
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite
+#EXTINF:-1 tvg-id="6" tvg-name="כאן 88" tvg-logo="https://radio.coolsite.co.il/images/small/1.jpg" group-title="רדיו ישראלי", רדיו - כאן 88
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite
+#EXTINF:-1 tvg-id="7" tvg-name="רדיוס 100FM" tvg-logo="https://radio.coolsite.co.il/images/small/5.jpg" group-title="רדיו ישראלי", רדיו - רדיוס 100FM
+https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
+#EXTINF:-1 tvg-id="10" tvg-name="ערוץ הכנסת" tvg-logo="https://radio.coolsite.co.il/images/small/36.jpg" group-title="רדיו ישראלי", רדיו - ערוץ הכנסת
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="רדיו שירי אהבה" tvg-logo="https://radio.coolsite.co.il/images/small/12.jpg" group-title="רדיו ישראלי",רדיו - שירי אהבה
+https://liveradio.co.il/radiolove
+#EXTINF:-1 tvg-id="12" tvg-name="רדיו קצב ים תיכוני" tvg-logo="https://radio.coolsite.co.il/images/small/61.jpg" group-title="רדיו ישראלי",רדיו - קצב ים תיכוני
+https://liveradio.co.il:1040/;
+#EXTINF:-1 tvg-id="13" tvg-name="רדיו קליק לים התיכון" tvg-logo="https://radio.coolsite.co.il/images/small/17.jpg" group-title="רדיו ישראלי",רדיו - קליק לים התיכון
+https://icecast.live/yamfm
+#EXTINF:-1 tvg-id="14" tvg-name="רדיו קול הים האדום" tvg-logo="https://radio.coolsite.co.il/images/small/27.jpg" group-title="רדיו ישראלי",רדיו - קול הים האדום
+https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio
+#EXTINF:-1 tvg-id="15" tvg-name="רדיו מזרחית" tvg-logo="https://radio.coolsite.co.il/images/small/51.jpg" group-title="רדיו ישראלי",רדיו - מזרחית
+https://mzr.mediacast.co.il/mzradio
+#EXTINF:-1 tvg-id="16" tvg-name="רדיו המזרח" tvg-logo="https://radio.coolsite.co.il/images/small/57.jpg" group-title="רדיו ישראלי",רדיו - המזרח
+https://liveradio.co.il:9089/;
+#EXTINF:-1 tvg-id="79" tvg-name="BeatFM" tvg-logo="https://radio.coolsite.co.il/images/small/67.jpg" group-title="רדיו ישראלי", רדיו - BeatFM
+https://securestreams2.autopo.st:1242/live
+#EXTINF:-1 tvg-id="80" tvg-name="Classic FM" tvg-logo="https://radio.coolsite.co.il/images/small/18.jpg" group-title="רדיו ישראלי", רדיו - Classic FM
+https://media-ssl.musicradio.com/ClassicFM
+#EXTINF:-1 tvg-id="81" tvg-name="Jazz FM" tvg-logo="https://radio.coolsite.co.il/images/small/63.jpg" group-title="רדיו ישראלי", רדיו - Jazz FM
+https://jazzfm91.streamb.live/SB00009
+#EXTINF:-1 tvg-id="82" tvg-name="MUZIKA 106.4FM" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="רדיו ישראלי", רדיו - MUZIKA 106.4FM
+https://cdna.streamgates.net/TheBest/live/icecast.audio
+#EXTINF:-1 tvg-id="83" tvg-name="Radio Salsa Tel Aviv" tvg-logo="https://radio.coolsite.co.il/images/small/76.jpg" group-title="רדיו ישראלי", רדיו - Radio Salsa Tel Aviv
+https://liveradio.co.il/salsa
+#EXTINF:-1 tvg-id="84" tvg-name="Up2Dance Radio" tvg-logo="https://radio.coolsite.co.il/images/small/69.jpg" group-title="רדיו ישראלי", רדיו - Up2Dance Radio
+https://icecast.live/proxy/up2dance/up2dance
+#EXTINF:-1 tvg-id="85" tvg-name="Первое радио 89.1FM" tvg-logo="https://radio.coolsite.co.il/images/small/45.jpg" group-title="רדיו ישראלי", רדיו - Первое радио 89.1FM
+https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="הרדיו הבינתחומי" tvg-logo="https://radio.coolsite.co.il/images/small/46.jpg" group-title="רדיו ישראלי", רדיו - הרדיו הבינתחומי
+https://1062onair.idc.ac.il/idc123.mp3
+#EXTINF:-1 tvg-id="87" tvg-name="כאן מורשת" tvg-logo="https://radio.coolsite.co.il/images/small/20.jpg" group-title="רדיו ישראלי", רדיו - כאן מורשת
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite
+#EXTINF:-1 tvg-id="88" tvg-name="כאן קול המוסיקה" tvg-logo="https://radio.coolsite.co.il/images/small/26.jpg" group-title="רדיו ישראלי", רדיו - כאן קול המוסיקה
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite
+#EXTINF:-1 tvg-id="89" tvg-name="כאן רקע" tvg-logo="https://radio.coolsite.co.il/images/small/74.jpg" group-title="רדיו ישראלי", רדיו - כאן רקע
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite
+#EXTINF:-1 tvg-id="90" tvg-name="כאן תרבות" tvg-logo="https://radio.coolsite.co.il/images/small/28.jpg" group-title="רדיו ישראלי", רדיו - כאן תרבות
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite
+#EXTINF:-1 tvg-id="91" tvg-name="עברי שש" tvg-logo="https://radio.coolsite.co.il/images/small/68.jpg" group-title="רדיו ישראלי", רדיו - עברי שש
+https://streaming.radio.co/sa06221901/listen
+#EXTINF:-1 tvg-id="92" tvg-name="קול הקמפוס 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/19.jpg" group-title="רדיו ישראלי", רדיו - קול הקמפוס 106FM
+http://106fm.livecdn.biz:7075/;stream.mp3
+#EXTINF:-1 tvg-id="93" tvg-name="קול רמת השרון" tvg-logo="https://radio.coolsite.co.il/images/small/43.jpg" group-title="רדיו ישראלי", רדיו - קול רמת השרון
+https://radio.streamgates.net/stream/1036
+#EXTINF:-1 tvg-id="94" tvg-name="רדיו 69FM" tvg-logo="https://radio.coolsite.co.il/images/small/70.jpg" group-title="רדיו ישראלי",רדיו - 69FM
+https://live.ecast.co.il/stream/69fm
+#EXTINF:-1 tvg-id="95" tvg-name="רדיו 99FM" tvg-logo="https://radio.coolsite.co.il/images/small/7.jpg" group-title="רדיו ישראלי",רדיו - 99FM
+https://eco-live.mediacast.co.il/99fm_aac
+#EXTINF:-1 tvg-id="96" tvg-name="רדיו א-שמס - الشمس" tvg-logo="https://radio.coolsite.co.il/images/small/22.jpg" group-title="רדיו ישראלי",רדיו - א-שמס - الشمس
+https://cdna.streamgates.net/Ashams/Live/icecast.audio
+#EXTINF:-1 tvg-id="97" tvg-name="רדיו אורנים" tvg-logo="https://radio.coolsite.co.il/images/small/58.jpg" group-title="רדיו ישראלי",רדיו - אורנים
+https://radio.streamgates.net/stream/oranim
+#EXTINF:-1 tvg-id="98" tvg-name="רדיו אלכרמל (راديو الكرمل)" tvg-logo="https://radio.coolsite.co.il/images/small/44.jpg" group-title="רדיו ישראלי",רדיו - אלכרמל (راديو الكرمل)
+https://liveradio.co.il:1060/waelhalabi/1/web
+#EXTINF:-1 tvg-id="99" tvg-name="רדיו ביט" tvg-logo="https://radio.coolsite.co.il/images/small/49.jpg" group-title="רדיו ישראלי",רדיו - ביט
+http://www.radio-beat.com/server1
+#EXTINF:-1 tvg-id="100" tvg-name="רדיו ברסלב - קול הנחל" tvg-logo="https://radio.coolsite.co.il/images/small/54.jpg" group-title="רדיו ישראלי",רדיו - ברסלב - קול הנחל
+https://cast.ereznet.co.il/radio/8070/radio.mp3
+#EXTINF:-1 tvg-id="101" tvg-name="רדיו גלי אשקלונט" tvg-logo="https://radio.coolsite.co.il/images/small/65.jpg" group-title="רדיו ישראלי",רדיו - גלי אשקלונט
+https://s4.radio.co/s6765540c3/listen
+#EXTINF:-1 tvg-id="102" tvg-name="רדיו הקצה" tvg-logo="https://radio.coolsite.co.il/images/small/59.jpg" group-title="רדיו ישראלי",רדיו - הקצה
+https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
+#EXTINF:-1 tvg-id="103" tvg-name="רדיו התחנה 101.5" tvg-logo="https://radio.coolsite.co.il/images/small/15.jpg" group-title="רדיו ישראלי",רדיו - התחנה 101.5
+https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio
+#EXTINF:-1 tvg-id="104" tvg-name="רדיו זה רוק" tvg-logo="https://radio.coolsite.co.il/images/small/75.jpg" group-title="רדיו ישראלי",רדיו - זה רוק
+https://icecast.live/proxy/zerock/zerock
+#EXTINF:-1 tvg-id="105" tvg-name="רדיו חדש על הגל" tvg-logo="https://radio.coolsite.co.il/images/small/77.jpg" group-title="רדיו ישראלי",רדיו - חדש על הגל
+https://liveradio.co.il:8020/;
+#EXTINF:-1 tvg-id="106" tvg-name="רדיו חולמים מזרחית" tvg-logo="https://radio.coolsite.co.il/images/small/33.jpg" group-title="רדיו ישראלי",רדיו - חולמים מזרחית
+http://liveradio.co.il:8070/;
+#EXTINF:-1 tvg-id="107" tvg-name="רדיו חוף אילת" tvg-logo="https://radio.coolsite.co.il/images/small/38.jpg" group-title="רדיו ישראלי",רדיו - חוף אילת
+https://ec1.yesstreaming.net:3815/stream?ver=258837
+#EXTINF:-1 tvg-id="108" tvg-name="רדיו חיפה" tvg-logo="https://radio.coolsite.co.il/images/small/11.jpg" group-title="רדיו ישראלי",רדיו - חיפה
+https://1075.livecdn.biz/radiohaifa
+#EXTINF:-1 tvg-id="109" tvg-name="רדיו חם אש" tvg-logo="https://radio.coolsite.co.il/images/small/50.jpg" group-title="רדיו ישראלי",רדיו - חם אש
+https://995.livecdn.biz/995fm
+#EXTINF:-1 tvg-id="110" tvg-name="רדיו חמש ישראל" tvg-logo="https://radio.coolsite.co.il/images/small/79.jpg" group-title="רדיו ישראלי",רדיו - חמש ישראל
+https://radio5.ecast.co.il/stream/live
+#EXTINF:-1 tvg-id="111" tvg-name="רדיו יאסו" tvg-logo="https://radio.coolsite.co.il/images/small/40.jpg" group-title="רדיו ישראלי",רדיו - יאסו
+http://radio-yasoo.ath.cx:7500/;
+#EXTINF:-1 tvg-id="112" tvg-name="רדיו ירושלים" tvg-logo="https://radio.coolsite.co.il/images/small/25.jpg" group-title="רדיו ישראלי",רדיו - ירושלים
+https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio
+#EXTINF:-1 tvg-id="113" tvg-name="רדיו כחול יוון" tvg-logo="https://radio.coolsite.co.il/images/small/55.jpg" group-title="רדיו ישראלי",רדיו - כחול יוון
+https://icecast.live/proxy/livegreece/livegreece
+#EXTINF:-1 tvg-id="114" tvg-name="רדיו לב המדינה" tvg-logo="https://radio.coolsite.co.il/images/small/3.jpg" group-title="רדיו ישראלי",רדיו - לב המדינה
+https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
+#EXTINF:-1 tvg-id="115" tvg-name="רדיו מהות החיים" tvg-logo="https://radio.coolsite.co.il/images/small/41.jpg" group-title="רדיו ישראלי",רדיו - מהות החיים
+https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
+#EXTINF:-1 tvg-id="116" tvg-name="רדיו מרטיט מיתר בלב" tvg-logo="https://radio.coolsite.co.il/images/small/66.jpg" group-title="רדיו ישראלי",רדיו - מרטיט מיתר בלב
+https://liveradio.co.il/wet
+#EXTINF:-1 tvg-id="117" tvg-name="רדיו נטו" tvg-logo="https://radio.coolsite.co.il/images/small/37.jpg" group-title="רדיו ישראלי",רדיו - נטו
+https://live.ecast.co.il/stream/radioneto1
+#EXTINF:-1 tvg-id="118" tvg-name="רדיו סהר" tvg-logo="https://radio.coolsite.co.il/images/small/34.jpg" group-title="רדיו ישראלי",רדיו - סהר
+https://live.ecast.co.il/stream/sahar
+#EXTINF:-1 tvg-id="119" tvg-name="רדיו סול" tvg-logo="https://radio.coolsite.co.il/images/small/39.jpg" group-title="רדיו ישראלי",רדיו - סול
+https://radio.streamgates.net/stream/sol
+#EXTINF:-1 tvg-id="120" tvg-name="רדיו צפון 104.5" tvg-logo="https://radio.coolsite.co.il/images/small/62.jpg" group-title="רדיו ישראלי",רדיו - צפון 104.5
+https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio
+#EXTINF:-1 tvg-id="121" tvg-name="רדיו קבלה FM" tvg-logo="https://radio.coolsite.co.il/images/small/42.jpg" group-title="רדיו ישראלי",רדיו - קבלה FM
+http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3
+#EXTINF:-1 tvg-id="122" tvg-name="רדיו קול אחר 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/52.jpg" group-title="רדיו ישראלי",רדיו - קול אחר 106FM
+http://gb35.streamgates.net/ariel106fm/audio/icecast.audio
+#EXTINF:-1 tvg-id="123" tvg-name="רדיו קול ברמה" tvg-logo="https://radio.coolsite.co.il/images/small/31.jpg" group-title="רדיו ישראלי",רדיו - קול ברמה
+https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio
+#EXTINF:-1 tvg-id="124" tvg-name="רדיו קול הגולן" tvg-logo="https://radio.coolsite.co.il/images/small/64.jpg" group-title="רדיו ישראלי",רדיו - קול הגולן
+https://liveradio.co.il/kolhagolan
+#EXTINF:-1 tvg-id="125" tvg-name="רדיו קול הגליל העליון 105.3FM" tvg-logo="https://radio.coolsite.co.il/images/small/60.jpg" group-title="רדיו ישראלי",רדיו - קול הגליל העליון 105.3FM
+https://radio.streamgates.net/stream/galil
+#EXTINF:-1 tvg-id="126" tvg-name="רדיו קול הכנרת" tvg-logo="https://radio.coolsite.co.il/images/small/32.jpg" group-title="רדיו ישראלי",רדיו - קול הכנרת
+https://radio.streamgates.net/stream/kinneret
+#EXTINF:-1 tvg-id="127" tvg-name="רדיו קול המרכז" tvg-logo="https://radio.coolsite.co.il/images/small/53.jpg" group-title="רדיו ישראלי",רדיו - קול המרכז
+https://liveradio.co.il:9070/;
+#EXTINF:-1 tvg-id="128" tvg-name="רדיו קול השפלה" tvg-logo="https://radio.coolsite.co.il/images/small/71.jpg" group-title="רדיו ישראלי",רדיו - קול השפלה
+https://radio.streamgates.net/stream/1036kh
+#EXTINF:-1 tvg-id="129" tvg-name="רדיו קול חי" tvg-logo="https://radio.coolsite.co.il/images/small/21.jpg" group-title="רדיו ישראלי",רדיו - קול חי
+https://media2.93fm.co.il/live-new
+#EXTINF:-1 tvg-id="130" tvg-name="רדיו קול יזרעאל 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/30.jpg" group-title="רדיו ישראלי",רדיו - קול יזרעאל 106FM
+https://radio.streamgates.net/stream/yezreel
+#EXTINF:-1 tvg-id="131" tvg-name="רדיו קול נתניה 106FM" tvg-logo="https://radio.coolsite.co.il/images/small/35.jpg" group-title="רדיו ישראלי",רדיו - קול נתניה 106FM
+https://radio.streamgates.net/stream/netanya
+#EXTINF:-1 tvg-id="132" tvg-name="רדיו קול רגע" tvg-logo="https://radio.coolsite.co.il/images/small/23.jpg" group-title="רדיו ישראלי",רדיו - קול רגע
+https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
+#EXTINF:-1 tvg-id="133" tvg-name="רדיו קצב מזרחית" tvg-logo="https://radio.coolsite.co.il/images/small/72.jpg" group-title="רדיו ישראלי",רדיו - קצב מזרחית
+https://liveradio.co.il/radio_i
+#EXTINF:-1 tvg-id="134" tvg-name="רדיו רן (פרסית)" tvg-logo="https://radio.coolsite.co.il/images/small/56.jpg" group-title="רדיו ישראלי",רדיו - רן (פרסית)
+http://185.80.220.12:8047/stream
+#EXTINF:-1 tvg-id="135" tvg-name="רדיו שירי דיכאון" tvg-logo="https://radio.coolsite.co.il/images/small/48.jpg" group-title="רדיו ישראלי",רדיו - שירי דיכאון
+https://diki.mediacast.co.il/diki
+#EXTINF:-1 tvg-id="136" tvg-name="רדיו תשעים" tvg-logo="https://radio.coolsite.co.il/images/small/2.jpg" group-title="רדיו ישראלי",רדיו - תשעים
+https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio
+#EXTINF:-1 tvg-id="17" tvg-name="100% 2000s" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-2000s.png" group-title="רדיוס", רדיוס - 100% 2000s
 https://gb25.streamgates.net/radios-audio/1002000s/icecast.audio
-#EXTINF:-1 tvg-id="18" tvg-name="100% 70's" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-70s.png" group-title="רדיו", רדיו -  100% 70's
+#EXTINF:-1 tvg-id="18" tvg-name="100% 70's" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-70s.png" group-title="רדיוס", רדיוס - 100% 70's
 https://gb25.streamgates.net/radios-audio/10070s/icecast.audio
-#EXTINF:-1 tvg-id="19" tvg-name="100% 80's" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-80s.png" group-title="רדיו", רדיו -  100% 80's
+#EXTINF:-1 tvg-id="19" tvg-name="100% 80's" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-80s.png" group-title="רדיוס", רדיוס - 100% 80's
 https://gb25.streamgates.net/radios-audio/10080s/icecast.audio
-#EXTINF:-1 tvg-id="20" tvg-name="100% 90's" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-90s.png" group-title="רדיו", רדיו -  100% 90's
+#EXTINF:-1 tvg-id="20" tvg-name="100% 90's" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-90s.png" group-title="רדיוס", רדיוס - 100% 90's
 https://gb25.streamgates.net/radios-audio/10090s/icecast.audio
-#EXTINF:-1 tvg-id="21" tvg-name="100% Blues" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png" group-title="רדיו", רדיו -  100% Blues
+#EXTINF:-1 tvg-id="21" tvg-name="100% Blues" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png" group-title="רדיוס", רדיוס - 100% Blues
 https://gb25.streamgates.net/radios-audio/100Blues/icecast.audio
-#EXTINF:-1 tvg-id="22" tvg-name="100% Brit Pop" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-britpop.png" group-title="רדיו", רדיו -  100% Brit Pop
+#EXTINF:-1 tvg-id="22" tvg-name="100% Brit Pop" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-britpop.png" group-title="רדיוס", רדיוס - 100% Brit Pop
 https://gb25.streamgates.net/radios-audio/100Britpop/icecast.audio
-#EXTINF:-1 tvg-id="23" tvg-name="100% Café" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-cafe.png" group-title="רדיו", רדיו -  100% Café
+#EXTINF:-1 tvg-id="23" tvg-name="100% Café" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-cafe.png" group-title="רדיוס", רדיוס - 100% Café
 https://gb25.streamgates.net/radios-audio/100Cafe/icecast.audio
-#EXTINF:-1 tvg-id="24" tvg-name="100% Chillout" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-chillout.png" group-title="רדיו", רדיו -  100% Chillout
+#EXTINF:-1 tvg-id="24" tvg-name="100% Chillout" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-chillout.png" group-title="רדיוס", רדיוס - 100% Chillout
 https://gb25.streamgates.net/radios-audio/100Chillout/icecast.audio
-#EXTINF:-1 tvg-id="25" tvg-name="100% Classic" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classic.png" group-title="רדיו", רדיו -  100% Classic
+#EXTINF:-1 tvg-id="25" tvg-name="100% Classic" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classic.png" group-title="רדיוס", רדיוס - 100% Classic
 https://gb25.streamgates.net/radios-audio/100Classic/icecast.audio
-#EXTINF:-1 tvg-id="26" tvg-name="100% Classic Rock" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classicrock.png" group-title="רדיו", רדיו -  100% Classic Rock
+#EXTINF:-1 tvg-id="26" tvg-name="100% Classic Rock" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classicrock.png" group-title="רדיוס", רדיוס - 100% Classic Rock
 https://gb25.streamgates.net/radios-audio/100ClassicRock/icecast.audio
-#EXTINF:-1 tvg-id="27" tvg-name="100% Club" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-club.png" group-title="רדיו", רדיו -  100% Club
+#EXTINF:-1 tvg-id="27" tvg-name="100% Club" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-club.png" group-title="רדיוס", רדיוס - 100% Club
 https://gb25.streamgates.net/radios-audio/100Club/icecast.audio
-#EXTINF:-1 tvg-id="28" tvg-name="100% Country" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-country.png" group-title="רדיו", רדיו -  100% Country
+#EXTINF:-1 tvg-id="28" tvg-name="100% Country" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-country.png" group-title="רדיוס", רדיוס - 100% Country
 https://gb25.streamgates.net/radios-audio/100Country/icecast.audio
-#EXTINF:-1 tvg-id="29" tvg-name="100% Covers" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-covers.png" group-title="רדיו", רדיו -  100% Covers
+#EXTINF:-1 tvg-id="29" tvg-name="100% Covers" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-covers.png" group-title="רדיוס", רדיוס - 100% Covers
 https://gb25.streamgates.net/radios-audio/100Covers/icecast.audio
-#EXTINF:-1 tvg-id="30" tvg-name="100% DJSet" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-djset.png" group-title="רדיו", רדיו -  100% DJSet
+#EXTINF:-1 tvg-id="30" tvg-name="100% DJSet" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-djset.png" group-title="רדיוס", רדיוס - 100% DJSet
 https://gb25.streamgates.net/radios-audio/100Djset/icecast.audio
-#EXTINF:-1 tvg-id="31" tvg-name="100% Dance" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-dance.png" group-title="רדיו", רדיו -  100% Dance
+#EXTINF:-1 tvg-id="31" tvg-name="100% Dance" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-dance.png" group-title="רדיוס", רדיוס - 100% Dance
 https://gb25.streamgates.net/radios-audio/100Dance/icecast.audio
-#EXTINF:-1 tvg-id="32" tvg-name="100% Deep" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-deep.png" group-title="רדיו", רדיו -  100% Deep
+#EXTINF:-1 tvg-id="32" tvg-name="100% Deep" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-deep.png" group-title="רדיוס", רדיוס - 100% Deep
 https://gb25.streamgates.net/radios-audio/100Deep/icecast.audio
-#EXTINF:-1 tvg-id="33" tvg-name="100% Disney" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-disney.png" group-title="רדיו", רדיו -  100% Disney
+#EXTINF:-1 tvg-id="33" tvg-name="100% Disney" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-disney.png" group-title="רדיוס", רדיוס - 100% Disney
 https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio
-#EXTINF:-1 tvg-id="34" tvg-name="100% Drivetime" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-drivetime.png" group-title="רדיו", רדיו -  100% Drivetime
+#EXTINF:-1 tvg-id="34" tvg-name="100% Drivetime" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-drivetime.png" group-title="רדיוס", רדיוס - 100% Drivetime
 https://gb25.streamgates.net/radios-audio/100Drivetime/icecast.audio
-#EXTINF:-1 tvg-id="35" tvg-name="100% France" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-french.png" group-title="רדיו", רדיו -  100% France
+#EXTINF:-1 tvg-id="35" tvg-name="100% France" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-french.png" group-title="רדיוס", רדיוס - 100% France
 https://gb25.streamgates.net/radios-audio/100France/icecast.audio
-#EXTINF:-1 tvg-id="36" tvg-name="100% Gamer" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-gamer.png" group-title="רדיו", רדיו -  100% Gamer
+#EXTINF:-1 tvg-id="36" tvg-name="100% Gamer" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-gamer.png" group-title="רדיוס", רדיוס - 100% Gamer
 https://api.audius.co/v1/playlists/3ArEk/stream
-#EXTINF:-1 tvg-id="37" tvg-name="100% Greek" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-greek.png" group-title="רדיו", רדיו -  100% Greek
+#EXTINF:-1 tvg-id="37" tvg-name="100% Greek" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-greek.png" group-title="רדיוס", רדיוס - 100% Greek
 https://gb25.streamgates.net/radios-audio/100Greek/icecast.audio
-#EXTINF:-1 tvg-id="38" tvg-name="100% Hafla" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hafla.png" group-title="רדיו", רדיו -  100% Hafla
+#EXTINF:-1 tvg-id="38" tvg-name="100% Hafla" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hafla.png" group-title="רדיוס", רדיוס - 100% Hafla
 https://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio
-#EXTINF:-1 tvg-id="39" tvg-name="100% Hiphop" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hiphop.png" group-title="רדיו", רדיו -  100% Hiphop
+#EXTINF:-1 tvg-id="39" tvg-name="100% Hiphop" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hiphop.png" group-title="רדיוס", רדיוס - 100% Hiphop
 https://gb25.streamgates.net/radios-audio/100Hiphop/icecast.audio
-#EXTINF:-1 tvg-id="40" tvg-name="100% Hits" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hits.png" group-title="רדיו", רדיו -  100% Hits
+#EXTINF:-1 tvg-id="40" tvg-name="100% Hits" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hits.png" group-title="רדיוס", רדיוס - 100% Hits
 https://gb25.streamgates.net/radios-audio/100Hits/icecast.audio
-#EXTINF:-1 tvg-id="41" tvg-name="100% Israeli" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-israeli.png" group-title="רדיו", רדיו -  100% Israeli
+#EXTINF:-1 tvg-id="41" tvg-name="100% Israeli" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-israeli.png" group-title="רדיוס", רדיוס - 100% Israeli
 https://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio
-#EXTINF:-1 tvg-id="42" tvg-name="100% Italian" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-italian.png" group-title="רדיו", רדיו -  100% Italian
+#EXTINF:-1 tvg-id="42" tvg-name="100% Italian" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-italian.png" group-title="רדיוס", רדיוס - 100% Italian
 https://gb25.streamgates.net/radios-audio/100Italian/icecast.audio
-#EXTINF:-1 tvg-id="43" tvg-name="100% Jazz" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-jazz.png" group-title="רדיו", רדיו -  100% Jazz
+#EXTINF:-1 tvg-id="43" tvg-name="100% Jazz" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-jazz.png" group-title="רדיוס", רדיוס - 100% Jazz
 https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio
-#EXTINF:-1 tvg-id="44" tvg-name="100% K-Pop" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kpop.png" group-title="רדיו", רדיו -  100% K-Pop
+#EXTINF:-1 tvg-id="44" tvg-name="100% K-Pop" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kpop.png" group-title="רדיוס", רדיוס - 100% K-Pop
 https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio
-#EXTINF:-1 tvg-id="45" tvg-name="100% Karaoke" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-karaoke.png" group-title="רדיו", רדיו -  100% Karaoke
+#EXTINF:-1 tvg-id="45" tvg-name="100% Karaoke" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-karaoke.png" group-title="רדיוס", רדיוס - 100% Karaoke
 https://gb25.streamgates.net/radios-audio/100karaoke/icecast.audio
-#EXTINF:-1 tvg-id="46" tvg-name="100% Kids" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kids.png" group-title="רדיו", רדיו -  100% Kids
+#EXTINF:-1 tvg-id="46" tvg-name="100% Kids" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kids.png" group-title="רדיוס", רדיוס - 100% Kids
 https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio
-#EXTINF:-1 tvg-id="47" tvg-name="100% Latin" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png" group-title="רדיו", רדיו -  100% Latin
+#EXTINF:-1 tvg-id="47" tvg-name="100% Latin" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png" group-title="רדיוס", רדיוס - 100% Latin
 https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio
-#EXTINF:-1 tvg-id="48" tvg-name="100% Legends" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-legends.png" group-title="רדיו", רדיו -  100% Legends
+#EXTINF:-1 tvg-id="48" tvg-name="100% Legends" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-legends.png" group-title="רדיוס", רדיוס - 100% Legends
 https://gb25.streamgates.net/radios-audio/100Legends/icecast.audio
-#EXTINF:-1 tvg-id="49" tvg-name="100% Live" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-live.png" group-title="רדיו", רדיו -  100% Live
+#EXTINF:-1 tvg-id="49" tvg-name="100% Live" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-live.png" group-title="רדיוס", רדיוס - 100% Live
 https://gb25.streamgates.net/radios-audio/100Live/icecast.audio
-#EXTINF:-1 tvg-id="50" tvg-name="100% Love" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-love.png" group-title="רדיו", רדיו -  100% Love
+#EXTINF:-1 tvg-id="50" tvg-name="100% Love" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-love.png" group-title="רדיוס", רדיוס - 100% Love
 https://gb25.streamgates.net/radios-audio/100Love/icecast.audio
-#EXTINF:-1 tvg-id="51" tvg-name="100% Mizrachit" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-mizrachit.png" group-title="רדיו", רדיו -  100% Mizrachit
+#EXTINF:-1 tvg-id="51" tvg-name="100% Mizrachit" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-mizrachit.png" group-title="רדיוס", רדיוס - 100% Mizrachit
 https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio
-#EXTINF:-1 tvg-id="52" tvg-name="100% Movies" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-movies.png" group-title="רדיו", רדיו -  100% Movies
+#EXTINF:-1 tvg-id="52" tvg-name="100% Movies" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-movies.png" group-title="רדיוס", רדיוס - 100% Movies
 https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio
-#EXTINF:-1 tvg-id="53" tvg-name="100% No.1" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-no1.png" group-title="רדיו", רדיו -  100% No.1
+#EXTINF:-1 tvg-id="53" tvg-name="100% No.1" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-no1.png" group-title="רדיוס", רדיוס - 100% No.1
 https://gb25.streamgates.net/radios-audio/100Number1/icecast.audio
-#EXTINF:-1 tvg-id="54" tvg-name="100% Nostalgia" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-nostalgia.png" group-title="רדיו", רדיו -  100% Nostalgia
+#EXTINF:-1 tvg-id="54" tvg-name="100% Nostalgia" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-nostalgia.png" group-title="רדיוס", רדיוס - 100% Nostalgia
 https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio
-#EXTINF:-1 tvg-id="55" tvg-name="100% Oldies" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-oldies.png" group-title="רדיו", רדיו -  100% Oldies
+#EXTINF:-1 tvg-id="55" tvg-name="100% Oldies" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-oldies.png" group-title="רדיוס", רדיוס - 100% Oldies
 https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio
-#EXTINF:-1 tvg-id="56" tvg-name="100% Relax" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png" group-title="רדיו", רדיו -  100% Relax
+#EXTINF:-1 tvg-id="56" tvg-name="100% Relax" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png" group-title="רדיוס", רדיוס - 100% Relax
 https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio
-#EXTINF:-1 tvg-id="57" tvg-name="100% Retro" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-retro.png" group-title="רדיו", רדיו -  100% Retro
+#EXTINF:-1 tvg-id="57" tvg-name="100% Retro" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-retro.png" group-title="רדיוס", רדיוס - 100% Retro
 https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio
-#EXTINF:-1 tvg-id="58" tvg-name="100% Rock" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-rock.png" group-title="רדיו", רדיו -  100% Rock
+#EXTINF:-1 tvg-id="58" tvg-name="100% Rock" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-rock.png" group-title="רדיוס", רדיוס - 100% Rock
 https://gb25.streamgates.net/radios-audio/100Rock/icecast.audio
-#EXTINF:-1 tvg-id="59" tvg-name="100% Russian" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-russian.png" group-title="רדיו", רדיו -  100% Russian
+#EXTINF:-1 tvg-id="59" tvg-name="100% Russian" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-russian.png" group-title="רדיוס", רדיוס - 100% Russian
 https://gb25.streamgates.net/radios-audio/891Digital/icecast.audio
-#EXTINF:-1 tvg-id="60" tvg-name="100% Selfie" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-selfie.png" group-title="רדיו", רדיו -  100% Selfie
+#EXTINF:-1 tvg-id="60" tvg-name="100% Selfie" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-selfie.png" group-title="רדיוס", רדיוס - 100% Selfie
 https://gb25.streamgates.net/radios-audio/100Selfie/icecast.audio
-#EXTINF:-1 tvg-id="61" tvg-name="100% Stand-up" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-standup.png" group-title="רדיו", רדיו -  100% Stand-up
+#EXTINF:-1 tvg-id="61" tvg-name="100% Stand-up" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-standup.png" group-title="רדיוס", רדיוס - 100% Stand-up
 https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio
-#EXTINF:-1 tvg-id="62" tvg-name="100% TikTok" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tiktok.png" group-title="רדיו", רדיו -  100% TikTok
+#EXTINF:-1 tvg-id="62" tvg-name="100% TikTok" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tiktok.png" group-title="רדיוס", רדיוס - 100% TikTok
 https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio
-#EXTINF:-1 tvg-id="63" tvg-name="100% Top40" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png" group-title="רדיו", רדיו -  100% Top40
+#EXTINF:-1 tvg-id="63" tvg-name="100% Top40" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png" group-title="רדיוס", רדיוס - 100% Top40
 https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio
-#EXTINF:-1 tvg-id="64" tvg-name="100% Trance" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/x-trance.png" group-title="רדיו", רדיו -  100% Trance
+#EXTINF:-1 tvg-id="64" tvg-name="100% Trance" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/x-trance.png" group-title="רדיוס", רדיוס - 100% Trance
 https://gb25.streamgates.net/radios-audio/100Trance/icecast.audio
-#EXTINF:-1 tvg-id="65" tvg-name="100% Workout" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/tw-workout.png" group-title="רדיו", רדיו -  100% Workout
+#EXTINF:-1 tvg-id="65" tvg-name="100% Workout" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/tw-workout.png" group-title="רדיוס", רדיוס - 100% Workout
 https://gb25.streamgates.net/radios-audio/100Workout/icecast.audio
-#EXTINF:-1 tvg-id="66" tvg-name="100% World Music" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-world.png" group-title="רדיו", רדיו -  100% World Music
+#EXTINF:-1 tvg-id="66" tvg-name="100% World Music" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-world.png" group-title="רדיוס", רדיוס - 100% World Music
 https://gb25.streamgates.net/radios-audio/100World/icecast.audio
-#EXTINF:-1 tvg-id="67" tvg-name="100% יהודי" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-yehudi.png" group-title="רדיו", רדיו -  100% יהודי
+#EXTINF:-1 tvg-id="67" tvg-name="100% יהודי" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-yehudi.png" group-title="רדיוס", רדיוס - 100% יהודי
 https://gb25.streamgates.net/radios-audio/100yehudi/icecast.audio
-#EXTINF:-1 tvg-id="68" tvg-name="100% שלמה ארצי" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-shlomo.png" group-title="רדיו", רדיו -  100% שלמה ארצי
+#EXTINF:-1 tvg-id="68" tvg-name="100% שלמה ארצי" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-shlomo.png" group-title="רדיוס", רדיוס - 100% שלמה ארצי
 https://gb25.streamgates.net/radios-audio/100Shlomo/icecast.audio
-#EXTINF:-1 tvg-id="70" tvg-name="Loewenstein" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hospitals.png" group-title="רדיו", רדיו -  Loewenstein
+#EXTINF:-1 tvg-id="70" tvg-name="Loewenstein" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hospitals.png" group-title="רדיוס", רדיוס - Loewenstein
 https://gb25.streamgates.net/radios-audio/100Hospital/icecast.audio
-#EXTINF:-1 tvg-id="71" tvg-name="Special Eurovision" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-eurovision.png" group-title="רדיו", רדיו -  Special Eurovision
+#EXTINF:-1 tvg-id="71" tvg-name="Special Eurovision" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-eurovision.png" group-title="רדיוס", רדיוס - Special Eurovision
 https://gb25.streamgates.net/radios-audio/100Special/icecast.audio
-#EXTINF:-1 tvg-id="72" tvg-name="Tomer Maizner" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tomer.png" group-title="רדיו", רדיו -  Tomer Maizner
+#EXTINF:-1 tvg-id="72" tvg-name="Tomer Maizner" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tomer.png" group-title="רדיוס", רדיוס - Tomer Maizner
 https://gb25.streamgates.net/radios-audio/100Tomer/icecast.audio
-#EXTINF:-1 tvg-id="73" tvg-name="Vip Digital" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-vip.png" group-title="רדיו", רדיו -  Vip Digital
+#EXTINF:-1 tvg-id="73" tvg-name="Vip Digital" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-vip.png" group-title="רדיוס", רדיוס - Vip Digital
 https://gb25.streamgates.net/radios-audio/100Vip/icecast.audio
-#EXTINF:-1 tvg-id="74" tvg-name="ים תיכוני לוהט" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hot.png" group-title="רדיו", רדיו -  ים תיכוני לוהט
+#EXTINF:-1 tvg-id="74" tvg-name="ים תיכוני לוהט" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hot.png" group-title="רדיוס", רדיוס - ים תיכוני לוהט
 https://gb25.streamgates.net/radios-audio/91Hot/icecast.audio
-#EXTINF:-1 tvg-id="75" tvg-name="מבזק השעה חדשות 12" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-news12.png" group-title="רדיו", רדיו -  מבזק השעה חדשות 12
+#EXTINF:-1 tvg-id="75" tvg-name="מבזק השעה חדשות 12" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-news12.png" group-title="רדיוס", רדיוס - מבזק השעה חדשות 12
 http://ff_engine.streamgates.net/Ch10News.mp3
-#EXTINF:-1 tvg-id="76" tvg-name="ספיישל שבוע הגאווה" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-pride.png" group-title="רדיו", רדיו -  ספיישל שבוע הגאווה
+#EXTINF:-1 tvg-id="76" tvg-name="ספיישל שבוע הגאווה" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-pride.png" group-title="רדיוס", רדיוס - ספיישל שבוע הגאווה
 https://gb25.streamgates.net/radios-audio/100Taklitia/icecast.audio
-#EXTINF:-1 tvg-id="77" tvg-name="עושים היסטוריה" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-history.png" group-title="רדיו", רדיו -  עושים היסטוריה
+#EXTINF:-1 tvg-id="77" tvg-name="עושים היסטוריה" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-history.png" group-title="רדיוס", רדיוס - עושים היסטוריה
 https://gb25.streamgates.net/radios-audio/100History/icecast.audio
-#EXTINF:-1 tvg-id="78" tvg-name="ערוץ הילדים" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png" group-title="רדיו", רדיו -  ערוץ הילדים
+#EXTINF:-1 tvg-id="78" tvg-name="ערוץ הילדים" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png" group-title="רדיוס", רדיוס - ערוץ הילדים
 https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio
