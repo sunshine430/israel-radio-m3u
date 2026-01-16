@@ -1,6 +1,6 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 16:42 | 16/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 18:15 | 16/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡16/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
@@ -20,6 +20,8 @@ https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nad160126.mp3
 https://channel14.vod.immergo.tv/channel14/transcoded/5e27af11-d371-41d1-8a24-763dc654118a/hls/master.m3u8
 #EXTINF:-1 tvg-id="247800" tvg-name="האזנה מודרכת" tvg-logo="https://glz.co.il/media/68170/האזנה-מודרכת-בואי-פרק-2-מלבני.jpeg" group-title="גלגלצ",גלגלצ - האזנה מודרכת | בואי: 3 ערים | פרק 2_ לוס אנג_לס | 16/01/2026
 https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/9746fe5f-087c-479f-b9de-b3d400ab2c46/audio.mp3
+#EXTINF:-1 tvg-id="247802" tvg-name="דנה יצחק" tvg-logo="https://glz.co.il/media/49553/דנה-יצחק-חדשה.jpg" group-title="גלגלצ",גלגלצ - דנה יצחק | דנה יצחק 16/01/26 | 16/01/2026
+https://traffic.omny.fm:443/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/cfda5b93-2291-4e36-8a44-add7016df95d/a6e02d5c-e615-4f43-bb76-b3d400c9adbf/audio.mp3
 #EXTINF:-1 tvg-id="247776" tvg-name="איחוד שידורים עם גלגלצ" tvg-logo="https://glz.co.il/media/50794/באנר-אתר.png" group-title="גלי צהל",גלי צהל - איחוד שידורים עם גלגלצ | איחוד שידורים עם גלגלצ | 16/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260116-05/PD
 #EXTINF:-1 tvg-id="247775" tvg-name="איחוד שידורים עם גלגלצ" tvg-logo="https://glz.co.il/media/50794/באנר-אתר.png" group-title="גלי צהל",גלי צהל - איחוד שידורים עם גלגלצ | איחוד שידורים עם גלגלצ | 16/01/2026
@@ -1341,7 +1343,7 @@ https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
 #EXTINF:-1 tvg-id="11b" tvg-name="כאן 11 (4K)" tvg-logo="https://play-lh.googleusercontent.com/GsEybZ6ldos7BzsU1-UPgYRMC8evF8pFsM70r5pbHdkqlhDf78Y68U_W4bCfFEaoFHg=w240-h480-rw" group-title="TV",כאן 11 (4K)
 http://kan11.media.kan.org.il/hls/live/2024514-b/2024514/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="קשת 12" tvg-logo="https://play-lh.googleusercontent.com/RoElUG90D1xzNLxHguZE4lKtgpinMfG6ODeE0WSylhuDc6Vc9zxoDwKiHUw-qGtnRlg=s64-rw" group-title="TV",קשת 12
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?as=1&hdnea=st%3D1768572781%7Eexp%3D1768573681%7Eacl%3D%2F*%7Ehmac%3D6a9ea1cac500920d81d8ddce122831c5d090453681b9902bc5c9b064a4fd60c8
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?as=1&hdnea=st%3D1768574504%7Eexp%3D1768575404%7Eacl%3D%2F*%7Ehmac%3D1ad61f7efe6f6f9602f5c33202022f05893e50d2abd7b504a80388f99c3ae897
 #EXTINF:-1 tvg-id="13" tvg-name="רשת 13" tvg-logo="https://play-lh.googleusercontent.com/b2ONiP00GBwwlfQmo0CzhomjMpuVQYQDEwKkZxPfmaD2_zDru0cN1OOatvXbCDrf3Yt-=w240-h480-rw" group-title="TV",רשת 13
 https://reshet.g-mana.live/media/6f10d1da-0803-48d9-9272-57a811958974/mainManifest.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="עכשיו 14" tvg-logo="https://play-lh.googleusercontent.com/msL5XHCRLhTc_c_Ju1IUlwnGkxqLbC7W47nfZ4Z7jxt5KAorCNROJD-p1N0gupuN0g=w240-h480-rw" group-title="TV",עכשיו 14
@@ -1349,7 +1351,7 @@ https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="ערוץ הכלכלה" tvg-logo="https://play-lh.googleusercontent.com/HfuL2lhhSQfqlrxx6mfwdmniclMatf4Ntio3itHy00weELIhzXHDvzXe9uVReYQ0WVA=w240-h480-rw" group-title="TV",ערוץ הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions
 #EXTINF:-1 tvg-id="24" tvg-name="ערוץ 24" tvg-logo="https://live.staticflickr.com/65535/55036840391_7f88d4865a_m.jpg" group-title="TV",ערוץ 24
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1&hdnea=st%3D1768572783%7Eexp%3D1768573683%7Eacl%3D%2F*%7Ehmac%3Dce3f23583a70c44745cba4b4824c83ba9fb662ad3a826bbf7e1c072dfa31a0e7
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1&hdnea=st%3D1768574506%7Eexp%3D1768575406%7Eacl%3D%2F*%7Ehmac%3Df79e8595f28665cd2e31b334aabe70d9edb14ae3deb3b1412a9659cd6a154d23
 #EXTINF:-1 tvg-id="99" tvg-name="ערוץ הכנסת" tvg-logo="https://play-lh.googleusercontent.com/b_4BX-FDyvdnHiIECBDtp0oy40pVMyMEWUFg1AEcW_-H9s3wORIuPN2QQZ8j2rcrtSJGnunbiQYKPDxOaKgq8w=w240-h480-rw" group-title="TV",ערוץ הכנסת
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8
 #EXTINF:-1 tvg-id="11b" tvg-name="כאן 11" tvg-logo="https://play-lh.googleusercontent.com/GsEybZ6ldos7BzsU1-UPgYRMC8evF8pFsM70r5pbHdkqlhDf78Y68U_W4bCfFEaoFHg=w240-h480-rw" group-title="TV",כאן 11 (גיבוי)
