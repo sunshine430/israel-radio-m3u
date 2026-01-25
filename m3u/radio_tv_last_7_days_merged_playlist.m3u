@@ -1,13 +1,19 @@
 #EXTM3U
 # Sorted by: 1. Date (Desc), 2. Program Order. Time ignored.
-#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 02:35 | 25/01/2026⚡⚡
+#EXTINF:-1 group-title="Date", ⚡⚡עידכון אחרון | 04:35 | 25/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 group-title="Date", ⚡⚡25/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="248192" tvg-name="לילה ישראלי" tvg-logo="https://glz.co.il/media/63933/לילה-באנר-אתר-1.png" group-title="גלי צהל",גלי צהל - לילה ישראלי | לילה ישראלי | 25/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260125-02/PD
+#EXTINF:-1 tvg-id="248191" tvg-name="ציפורי לילה מתפייטות עם יאיר הראל" tvg-logo="https://glz.co.il/media/65753/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - ציפורי לילה מתפייטות עם יאיר הראל | ציפורי לילה מתפייטות עם יאיר הראל | 25/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260125-00/PD
 #EXTINF:-1 tvg-id="793238" tvg-name="דין וחשבון" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1746303632000_TV10_din_vecheshbon.jpg?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - דין וחשבון | 25/01/2026 | 00:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=790984800000&stopTime=790988400000
+#EXTINF:-1 tvg-id="25/01/2026" tvg-name="לילה ישראלי | שעה 5" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 5 | 25/01/2026 | 04:00
+https://www.oles.tv/videos/91fm/__archive/20260125040000.mp3
+#EXTINF:-1 tvg-id="25/01/2026" tvg-name="לילה ישראלי | שעה 4" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 4 | 25/01/2026 | 03:00
+https://www.oles.tv/videos/91fm/__archive/20260125030000.mp3
 #EXTINF:-1 tvg-id="25/01/2026" tvg-name="לילה ישראלי | שעה 3" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 3 | 25/01/2026 | 02:00
 https://www.oles.tv/videos/91fm/__archive/20260125020000.mp3
 #EXTINF:-1 tvg-id="25/01/2026" tvg-name="לילה ישראלי | שעה 2" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" group-title="רדיו לב המדינה 91fm",91FM - לילה ישראלי | שעה 2 | 25/01/2026 | 01:00
@@ -46,6 +52,8 @@ https://api.bynetcdn.com:443/Redirector/glz/260124-18/PD
 https://api.bynetcdn.com:443/Redirector/glz/260124-20/PD
 #EXTINF:-1 tvg-id="248188" tvg-name="תכניות מיוחדות" tvg-logo="https://glz.co.il/media/52543/באנר-אתר.jpg" group-title="גלי צהל",גלי צהל - תכניות מיוחדות | שאלות אישיות | שלומית אלוני | 24/01/2026
 https://api.bynetcdn.com:443/Redirector/glz/260124-21/PD
+#EXTINF:-1 tvg-id="248190" tvg-name="הולכות בחצות" tvg-logo="https://glz.co.il/media/63930/הולכות-אתר.png" group-title="גלי צהל",גלי צהל - הולכות בחצות | הולכות בחצות | 24/01/2026
+https://api.bynetcdn.com:443/Redirector/glz/260124-23/PD
 #EXTINF:-1 tvg-id="793235" tvg-name="ערך הכסף" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1768838712000_TV10_erech_hakesef.jpg?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - ערך הכסף | 24/01/2026 | 20:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=790970400000&stopTime=790975800000
 #EXTINF:-1 tvg-id="793234" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1768841425000_TV10_bina_acheret.jpg?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 24/01/2026 | 19:00
@@ -1134,8 +1142,6 @@ https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.m
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789856200000&stopTime=789858000000
 #EXTINF:-1 tvg-id="789711" tvg-name="בינה אחרת" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590944000_TV10_bina_acheret.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - בינה אחרת | 11/01/2026 | 06:00
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789796800000&stopTime=789800400000
-#EXTINF:-1 tvg-id="787172" tvg-name="מחלקה ראשונה" tvg-logo="https://r.il.cdn-redge.media/scale/oil/calcala/tv10/prod/images/epg/1755590945000_TV10_machlaka_rishona.png?dsth=1080&dstw=1920&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1" group-title="ערוץ הכלכלה 10",ערוץ הכלכלה 10 - מחלקה ראשונה | 11/01/2026 | 04:00
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions&startTime=789789600000&stopTime=789791400000
 #EXTINF:-1 group-title="Date", ⚡⚡07/01/2026⚡⚡
 https://github.com/anars/blank-audio/raw/refs/heads/master/1-second-of-silence.mp3
 #EXTINF:-1 tvg-id="66288" tvg-name="בוקר טוב דרום" tvg-logo="https://radiodarom.co.il/Upload/Media/Images/c946b3d0-4bf5-419b-b906-77dbb9f52af6.jpg" group-title="רדיו דרום",רדיו דרום - בוקר טוב דרום | 07/01/2026
@@ -1227,7 +1233,7 @@ https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
 #EXTINF:-1 tvg-id="11b" tvg-name="כאן 11 (4K)" tvg-logo="https://play-lh.googleusercontent.com/GsEybZ6ldos7BzsU1-UPgYRMC8evF8pFsM70r5pbHdkqlhDf78Y68U_W4bCfFEaoFHg=w240-h480-rw" group-title="TV",כאן 11 (4K)
 http://kan11.media.kan.org.il/hls/live/2024514-b/2024514/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="קשת 12" tvg-logo="https://play-lh.googleusercontent.com/RoElUG90D1xzNLxHguZE4lKtgpinMfG6ODeE0WSylhuDc6Vc9zxoDwKiHUw-qGtnRlg=s64-rw" group-title="TV",קשת 12
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?as=1&hdnea=st%3D1769299981%7Eexp%3D1769300881%7Eacl%3D%2F*%7Ehmac%3Db7baa955b76e45ba6b316a4fd165e2f22cfdd8590bb80e27309f6284f52a70e0
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?as=1&hdnea=st%3D1769307181%7Eexp%3D1769308081%7Eacl%3D%2F*%7Ehmac%3D15fc6b08ffe1787d215a4a4f8d88c7f55d76bd36762d007903d0a88172cbf9dc
 #EXTINF:-1 tvg-id="13" tvg-name="רשת 13" tvg-logo="https://play-lh.googleusercontent.com/b2ONiP00GBwwlfQmo0CzhomjMpuVQYQDEwKkZxPfmaD2_zDru0cN1OOatvXbCDrf3Yt-=w240-h480-rw" group-title="TV",רשת 13
 https://reshet.g-mana.live/media/6f10d1da-0803-48d9-9272-57a811958974/mainManifest.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="עכשיו 14" tvg-logo="https://play-lh.googleusercontent.com/msL5XHCRLhTc_c_Ju1IUlwnGkxqLbC7W47nfZ4Z7jxt5KAorCNROJD-p1N0gupuN0g=w240-h480-rw" group-title="TV",עכשיו 14
@@ -1235,7 +1241,7 @@ https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="ערוץ הכלכלה" tvg-logo="https://play-lh.googleusercontent.com/HfuL2lhhSQfqlrxx6mfwdmniclMatf4Ntio3itHy00weELIhzXHDvzXe9uVReYQ0WVA=w240-h480-rw" group-title="TV",ערוץ הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions
 #EXTINF:-1 tvg-id="24" tvg-name="ערוץ 24" tvg-logo="https://live.staticflickr.com/65535/55036840391_7f88d4865a_m.jpg" group-title="TV",ערוץ 24
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1&hdnea=st%3D1769299984%7Eexp%3D1769300884%7Eacl%3D%2F*%7Ehmac%3D9ec3fef8d79b59e2641804d607f1ab45b2a826982b5fb3e286674be028209202
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1&hdnea=st%3D1769307184%7Eexp%3D1769308084%7Eacl%3D%2F*%7Ehmac%3D490c68629044a69bfbe5d50ee9f315abd56c3bbea78d91610de066d231270dbe
 #EXTINF:-1 tvg-id="99" tvg-name="ערוץ הכנסת" tvg-logo="https://play-lh.googleusercontent.com/b_4BX-FDyvdnHiIECBDtp0oy40pVMyMEWUFg1AEcW_-H9s3wORIuPN2QQZ8j2rcrtSJGnunbiQYKPDxOaKgq8w=w240-h480-rw" group-title="TV",ערוץ הכנסת
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8
 #EXTINF:-1 tvg-id="11b" tvg-name="כאן 11" tvg-logo="https://play-lh.googleusercontent.com/GsEybZ6ldos7BzsU1-UPgYRMC8evF8pFsM70r5pbHdkqlhDf78Y68U_W4bCfFEaoFHg=w240-h480-rw" group-title="TV",כאן 11 (גיבוי)
